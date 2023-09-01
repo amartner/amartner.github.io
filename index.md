@@ -4,12 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a fourth-year Ph.D. student in economics at UCLA. My main field is Industrial Organization. My focus is on the aggregation of firm-level market power distortions.
 
-## Research Interests
+Mi Cv is here. You can reach me at amartner@ucla.edu
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
