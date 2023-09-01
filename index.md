@@ -8,7 +8,7 @@ I am in my fourth year Economics Ph.D. student at UCLA. My primary field is Indu
 
 ## Working Papers
 
-## Working in Progress
+## Work in Progress
 1. Productivity Growth and Market Power: Evidence from Chile  <br>
 with F. Huneeus and Y. Koike-Mori
 2. Multiproduct markups and aggregate inefficiencies <br>
