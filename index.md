@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## 
+
 I am a fourth-year Ph.D. student in economics at UCLA. My main field is Industrial Organization. My focus is on the aggregation of firm-level market power distortions.
 
 ## Working Papers
