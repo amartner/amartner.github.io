@@ -27,11 +27,11 @@ ECLAC Publications, 2014
 
 
 ## Teaching
-- **Instructor**
+- **Instructor**<br>
 Microeconomics Theory I, ECON 11 UCLA 
-- **[TA]** 
-Industrial Organization: Policy and Regulation, ECON 171 UCLA
-Microeconomics Theory I, ECON 11 UCLA (x4 + head TA)
+- **TA** <br>
+Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
+Microeconomics Theory I, ECON 11 UCLA (x4 + head TA) <br>
 Introduction to Economics, ECON 1 UCLA (x2)
 
 
