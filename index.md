@@ -12,13 +12,27 @@ I am a fourth-year Ph.D. student in economics at UCLA. My main field is Industri
 1. Markups
 
 ## Pre-doctoral work
-1. Markups and TFP growth.
+1. Front-of-package warning label effects on manufacturing labor outcomes in Chile
+Food Policy, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiuk, and B.M. Popkin
+2. Misallocation or Misspecification? The Effect of Average Distortions on TFP Gains Estimations
+Central Bank of Chile WP 835, June 2019. with E. Albagli, M. Canales, M. Tapia, and J.M. Wlasiuk.
+Sudden unemployment
+Mimeo 2019. with E. Albalgi, M. Marcel, and M. Tapia.
+Electronic invoicing: a data revolution for applied macroeconomic research
+Mimeo 2018. with E. Albagli (presentation at OECD slides)
+The role of small and medium-sized enterprises in Latin American exports to Asia
+United Nations Publications, 2016
+Window of opportunity of Chile-Guatemala commercial agreement (in Spanish)
+ECLAC Publications, 2014
 
-## Policy Briefs
-1. Markups and TFP growth.
 
 ## Teaching
-1. Markups and TFP growth.
+- **Instructor**
+Microeconomics Theory I, ECON 11 UCLA 
+- **[TA]** 
+Industrial Organization: Policy and Regulation, ECON 171 UCLA
+Microeconomics Theory I, ECON 11 UCLA (x4 + head TA)
+Introduction to Economics, ECON 1 UCLA (x2)
 
 
 
