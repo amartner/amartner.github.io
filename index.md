@@ -12,8 +12,7 @@ I am a fourth-year Ph.D. student in economics at UCLA. My main field is Industri
 1. Markups
 
 ## Pre-doctoral work
-1. <a href="[https://amartner.github.io/cv_AM_2023.pdf](https://www.sciencedirect.com/science/article/pii/S0306919220302220)">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> 
-Food Policy, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiuk, and B.M. Popkin
+1. <a href="[https://amartner.github.io/cv_AM_2023.pdf](https://www.sciencedirect.com/science/article/pii/S0306919220302220)">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> <be> Food Policy, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiuk, and B.M. Popkin
 2. Misallocation or Misspecification? The Effect of Average Distortions on TFP Gains Estimations
 Central Bank of Chile WP 835, June 2019. with E. Albagli, M. Canales, M. Tapia, and J.M. Wlasiuk.
 Sudden unemployment
