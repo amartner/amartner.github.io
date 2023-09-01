@@ -30,9 +30,6 @@ Mimeo 2019. with E. Albalgi, M. Marcel, and M. Tapia
 Mimeo 2018. with E. Albagli (presentation at OECD, slides).
 5. <a href="https://www.un-ilibrary.org/content/books/9789210572187c007">The role of small and medium-sized enterprises in Latin American exports to Asia</a> <br> 
 United Nations Publications, 2016.
-6. <a href="https://repository.eclac.org/handle/11362/37216">Window of opportunity of Chile-Guatemala commercial agreement</a> <br> 
-ECLAC Publications, 2014 (in Spanish).
-
 
 ## Teaching
 - **Instructor**<br>
