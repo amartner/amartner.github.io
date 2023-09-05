@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <p align="justify">
-I am in my fourth year Economics Ph.D. student at UCLA. My primary field is Industrial Organization. I work on aggregating firm-level inefficiencies derived from market power and describe its distortionary effects.
+I am in my fourth year Economics Ph.D. student at UCLA. My primary field is Industrial Organization. I work on aggregating firm-level inefficiencies derived from market power to describe its distortionary effects.
 </p>
 
 ## Working Papers
