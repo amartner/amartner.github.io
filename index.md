@@ -10,13 +10,13 @@ I am in my fourth year Economics Ph.D. student at UCLA.
 
 ## Work in Progress
 1. Productivity Growth and Market Power: Evidence from Chile  <br>
-with F. Huneeus and Y. Koike-Mori
+with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 2. Multiproduct markups and aggregate inefficiencies <br>
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 3. Welfare Effects of Buyer and Seller Power <br>
-with M. Rubens and M. Demirer 
+with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>  
 4. Revisiting the Cyclicality of the Markup’s Distribution: Evidence from Microdata <br>
-with M. Giarda and W. Lu
+with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www.mariogiarda.com/"> M. Giarda</a>   
 
 ## Pre-doctoral work
 1. <a href="https://www.sciencedirect.com/science/article/pii/S0306919220302220">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> <br>
