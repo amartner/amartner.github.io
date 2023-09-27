@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <p align="justify">
-I am in my fourth year Economics Ph.D. student at UCLA. 
+I am a fourth-year Economics Ph.D. student at UCLA. 
 </p>
 
 ## Working Papers
