@@ -35,7 +35,7 @@ United Nations Publications, 2016.
 Microeconomic Theory I, ECON 11 UCLA 
 - **Teaching Assistant** <br>
 Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
-Microeconomic Theory I, ECON 11 UCLA (x4 + head TA) <br>
+Microeconomic Theory I, ECON 11 UCLA (x5 + head TA) <br>
 Introduction to Economics, ECON 1 UCLA (x2)
 
 
