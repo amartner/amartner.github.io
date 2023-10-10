@@ -9,7 +9,7 @@ I am a fourth-year Economics Ph.D. student at UCLA.
 ## Working Papers
 
 ## Work in Progress
-1. Productivity Growth and Market Power: Evidence from Chile  <br>
+1. Growth Accounting in Distorted Open Economies<br>
 with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 2. Multiproduct markups and aggregate inefficiencies <br>
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
@@ -32,10 +32,10 @@ United Nations Publications, 2016.
 
 ## Teaching
 - **Instructor**<br>
-Microeconomics Theory I, ECON 11 UCLA 
+Microeconomic Theory I, ECON 11 UCLA 
 - **TA** <br>
 Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
-Microeconomics Theory I, ECON 11 UCLA (x4 + head TA) <br>
+Microeconomic Theory I, ECON 11 UCLA (x4 + head TA) <br>
 Introduction to Economics, ECON 1 UCLA (x2)
 
 
