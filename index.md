@@ -18,7 +18,7 @@ with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www
 ## Work in Progress
 1. Welfare Effects of Buyer and Seller Power <br>
 with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>  
-2. Price Discrimination in Supply Chains Welfare Effects <br>
+2. Price Discrimination in Supply Chains Welfare Effects. Job Market Paper <br>
 
 ## Pre-doctoral work
 1. <a href="https://www.sciencedirect.com/science/article/pii/S0306919220302220">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> <br>
