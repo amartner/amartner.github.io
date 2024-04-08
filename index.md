@@ -18,7 +18,17 @@ with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www
 ## Work in Progress
 1. Welfare Effects of Buyer and Seller Power <br>
 with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>  
-2. Price Discrimination in Supply Chains Welfare Effects. Job Market Paper <br>
+2. Price Discrimination in Supply Chains Welfare Effects. Job Market Paper <be>
+
+## Teaching
+- **Instructor**<br>
+Microeconomic Theory I, ECON 11 UCLA (Summer 2023,2024)<br>
+Principles of Economics, ECON 1 UCLA (Spring 2024, Summer 2024)
+
+- **Teaching Assistant** <br>
+Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
+Microeconomic Theory I, ECON 11 UCLA (x7 + head TA) <br>
+Principles of Economics, ECON 1 UCLA (x3)
 
 ## Pre-doctoral work
 1. <a href="https://www.sciencedirect.com/science/article/pii/S0306919220302220">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> <br>
@@ -32,15 +42,6 @@ Mimeo 2018. with E. Albagli (presentation at OECD, slides).
 5. <a href="https://www.un-ilibrary.org/content/books/9789210572187c007">The role of small and medium-sized enterprises in Latin American exports to Asia</a> <br> 
 United Nations Publications, 2016.
 
-## Teaching
-- **Instructor**<br>
-Microeconomic Theory I, ECON 11 UCLA (Summer 2023,2024)<br>
-Principles of Economics, ECON 1 UCLA (Spring 2024, Summer 2024)
-
-- **Teaching Assistant** <br>
-Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
-Microeconomic Theory I, ECON 11 UCLA (x7 + head TA) <br>
-Principles of Economics, ECON 1 UCLA (x3)
 
 
 
