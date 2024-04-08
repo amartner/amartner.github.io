@@ -39,8 +39,8 @@ Principles of Economics, ECON 1 UCLA (Spring 2024, Summer 2024)
 
 - **Teaching Assistant** <br>
 Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
-Microeconomic Theory I, ECON 11 UCLA (x5 + head TA) <br>
-Introduction to Economics, ECON 1 UCLA (x2)
+Microeconomic Theory I, ECON 11 UCLA (x7 + head TA) <br>
+Principles of Economics, ECON 1 UCLA (x3)
 
 
 
