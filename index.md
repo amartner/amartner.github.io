@@ -8,7 +8,7 @@ I am a fourth-year Economics Ph.D. student at UCLA.
 
 ## Working Papers
 
-1. <a href="https://amartner.github.io/Growth Accounting in Distorted Open Economies v21032024.pdf/"> Growth Accounting in Distorted Open Economies</a> <br> 
+1. <a href="https://amartner.github.io/trade_markups_v21032024.pdf/"> Growth Accounting in Distorted Open Economies</a> <br> 
 with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 2. Multiproduct markups and aggregate inefficiencies <br>
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
