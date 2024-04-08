@@ -34,7 +34,9 @@ United Nations Publications, 2016.
 
 ## Teaching
 - **Instructor**<br>
-Microeconomic Theory I, ECON 11 UCLA 
+Microeconomic Theory I, ECON 11 UCLA (Summer 2023,2024)<br>
+Principles of Economics, ECON 1 UCLA (Spring 2024, Summer 2024)
+
 - **Teaching Assistant** <br>
 Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
 Microeconomic Theory I, ECON 11 UCLA (x5 + head TA) <br>
