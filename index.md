@@ -8,15 +8,17 @@ I am a fourth-year Economics Ph.D. student at UCLA.
 
 ## Working Papers
 
-## Work in Progress
-1. Growth Accounting in Distorted Open Economies<br>
+1. <a href="https://amartner.github.io/Growth Accounting in Distorted Open Economies v21032024.pdf/"> Growth Accounting in Distorted Open Economies </a> <br> 
 with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 2. Multiproduct markups and aggregate inefficiencies <br>
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
-3. Welfare Effects of Buyer and Seller Power <br>
+3. Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics <br>
+with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www.mariogiarda.com/"> M. Giarda</a>  
+
+## Work in Progress
+1. Welfare Effects of Buyer and Seller Power <br>
 with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>  
-4. Revisiting the Cyclicality of the Markup’s Distribution: Evidence from Microdata <br>
-with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www.mariogiarda.com/"> M. Giarda</a>   
+2. Price Discrimination in Supply Chains Welfare Effects <br>
 
 ## Pre-doctoral work
 1. <a href="https://www.sciencedirect.com/science/article/pii/S0306919220302220">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> <br>
