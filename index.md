@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <p align="justify">
-I am a fourth-year Economics Ph.D. student at UCLA working under the supervision of <a href="https://hopenhayn.weebly.com/"> Hugo Hopenhayn</a> , <a href="http://www.johnasker.com/"> John Asker</a>, and <a href="https://michaelrubens.github.io/"> Michael Rubens</a>  .
+I am a fourth-year Economics Ph.D. student at UCLA working under the supervision of <a href="https://hopenhayn.weebly.com/"> Hugo Hopenhayn</a> ,  <a href="http://www.johnasker.com/"> John Asker</a>, and <a href="https://michaelrubens.github.io/"> Michael Rubens</a>  .
 </p>
 
 ## Working Papers
@@ -22,7 +22,7 @@ with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href
 
 ## Teaching
 - **Instructor**<br>
-Microeconomic Theory I, ECON 11 UCLA (Summer 2023,2024)<br>
+Microeconomic Theory I, ECON 11 UCLA (Summer 2023, 2024)<br>
 Principles of Economics, ECON 1 UCLA (Spring 2024, Summer 2024)
 
 - **Teaching Assistant** <br>
