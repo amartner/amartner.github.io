@@ -10,7 +10,7 @@ I am a fourth-year Economics Ph.D. student at UCLA working under the supervision
 
 1. <a href="https://amartner.github.io/trade_markups_v21032024.pdf"> Growth Accounting in Distorted Open Economies</a> <br> 
 with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
-2. Multiproduct markups and aggregate inefficiencies <br>
+2. Aggregating Distortions in Networks with Multi-Product Firms <br>
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 3. Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics <br>
 with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www.mariogiarda.com/"> M. Giarda</a>  
@@ -18,7 +18,7 @@ with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www
 ## Work in Progress
 1. Welfare Effects of Buyer and Seller Power <br>
 with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>  
-2. Price Discrimination in Supply Chains Welfare Effects. Job Market Paper <be>
+2. Welfare Effects of Price Discrimination in Supply Chains. Job Market Paper <be>
 
 ## Teaching
 - **Instructor**<br>
