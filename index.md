@@ -10,15 +10,17 @@ I am a fourth-year Economics Ph.D. student at UCLA working under the supervision
 
 1. <a href="./assets/files/Growth Accounting in Open Economies with Distortions v_05152024.pdf"> Growth Accounting in Open Economies with Distortions</a> <br> 
 with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
-2. Aggregating Distortions in Networks with Multi-Product Firms <br>
+2. Aggregating Distortions in Networks with Multi-Product Firms <a href="./assets/files/Slides_multiprod_may2024.pdf"> Slides</a> <br> 
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
-3. Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics <br>
-with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www.mariogiarda.com/"> M. Giarda</a>  
+
 
 ## Work in Progress
 1. Welfare Effects of Buyer and Seller Power <br>
-with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>  
-2. Welfare Effects of Price Discrimination in Supply Chains. Job Market Paper <be>
+with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>
+2. Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics <br>
+with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www.mariogiarda.com/"> M. Giarda</a>  
+3. Welfare Effects of Price Discrimination in Supply Chains <br>
+Job Market Paper 
 
 ## Teaching
 - **Instructor**<br>
