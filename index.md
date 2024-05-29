@@ -10,7 +10,7 @@ I am a fourth-year Economics Ph.D. student at UCLA working under the supervision
 
 1. <a href="./assets/files/Growth Accounting in Open Economies with Distortions v_05152024.pdf"> Growth Accounting in Open Economies with Distortions</a> <br> 
 with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
-2. Aggregating Distortions in Networks with Multi-Product Firms <a href="./assets/files/Slides_multiprod_may2024.pdf"> [Slides] </a> <br> 
+2. Aggregating Distortions in Networks with Multi-Product Firms <a href="./assets/files/Distortions_in_Networks_with_Multi_Product_Firms_slides05292024.pdf"> [Slides] </a> <br> 
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 
 
