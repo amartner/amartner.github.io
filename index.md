@@ -8,9 +8,9 @@ I am a fourth-year Economics Ph.D. student at UCLA working under the supervision
 
 ## Working Papers
 
-1. Growth Accounting in Open Economies with Distortions</a> <br>
+1. Growth Accounting in Open Economies with Distortions <br>
 with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
-2. Aggregating Distortions in Networks with Multi-Product Firms </a> <br>
+2. Aggregating Distortions in Networks with Multi-Product Firms <br>
 with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
 
 
