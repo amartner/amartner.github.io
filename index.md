@@ -3,24 +3,24 @@ layout: homepage
 ---
 
 <p align="justify">
-I am a fourth-year Economics Ph.D. student at UCLA working under the supervision of <a href="https://hopenhayn.weebly.com/"> Hugo Hopenhayn</a>, <a href="http://www.johnasker.com/">   John Asker</a>, and <a href="https://michaelrubens.github.io/"> Michael Rubens</a>.
+I am a fifth-year Economics Ph.D. student at UCLA working under the supervision of <a href="https://hopenhayn.weebly.com/"> Hugo Hopenhayn</a>, <a href="http://www.johnasker.com/">   John Asker</a>, and <a href="https://michaelrubens.github.io/"> Michael Rubens</a>.
 </p>
 
 ## Working Papers
 
-1. Growth Accounting in Open Economies with Distortions <br>
-with <a href="https://www.fedehuneeus.com/"> F. Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
-2. Aggregating Distortions in Networks with Multi-Product Firms <br>
-with <a href="https://yasutakakoike-mori.com/"> Y. Koike-Mori</a>
+1. Growth accounting in open economies with distortions <br>
+with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>
+2. Aggregating distortions in networks with multi-product firms <br>
+with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a>
 
 
 ## Work in Progress
-1. Welfare Effects of Buyer and Seller Power <br>
-with  <a href="https://www.mertdemirer.com/ "> M. Demirer</a>     and    <a href="https://michaelrubens.github.io/"> M. Rubens</a>
-2. Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics <br>
-with <a href="https://jianyulu.weebly.com/"> W. Lu</a>  and <a href="https://www.mariogiarda.com/"> M. Giarda</a>  
-3. Welfare Effects of Price Discrimination in Supply Chains <br>
-Job Market Paper 
+1. Welfare effects of buyer and seller Power <br>
+with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a href="https://michaelrubens.github.io/"> Michael Rubens</a>
+2. Monthly heterogeneous markup cyclicality and inflation dynamics <br>
+with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
+3. Non-linear prices in supply chains <br>
+with Luca Lorenzini . Job Market Paper 
 
 ## Teaching
 - **Instructor**<br>
@@ -29,8 +29,8 @@ Principles of Economics, ECON 1 UCLA (Spring 2024, Summer 2024)
 
 - **Teaching Assistant** <br>
 Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
-Microeconomic Theory I, ECON 11 UCLA (x7 + head TA) <br>
-Principles of Economics, ECON 1 UCLA (x3)
+Microeconomic Theory I, ECON 11 UCLA  <br>
+Principles of Economics, ECON 1 UCLA 
 
 ## Pre-doctoral work
 1. <a href="https://www.bcentral.cl/documents/33528/133326/DTBC_1010.pdf/c65a2cc0-e74c-a3aa-28ba-551f0e0e38d4?t=1710187683974">Firm Shocks, Workers Earnings and the Extensive Margin</a> <br> 
