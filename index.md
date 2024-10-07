@@ -8,18 +8,18 @@ I am a fifth-year Economics Ph.D. student at UCLA working under the supervision 
 
 ## Working Papers
 
-1. Growth accounting in open economies with distortions <br>
+1. Growth accounting in Open Economies with Distortions <br>
 with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>
-2. Aggregating distortions in networks with multi-product firms <br>
+2. Aggregating distortions in Networks with Multi-Product Firms <br>
 with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a>
 
 
 ## Work in Progress
-1. Welfare effects of buyer and seller Power <br>
+1. Welfare Effects of Buyer and Seller Power <br>
 with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a href="https://michaelrubens.github.io/"> Michael Rubens</a>
-2. Monthly heterogeneous markup cyclicality and inflation dynamics <br>
+2. Monthly Heterogeneous Markup cyclicality and Inflation Dynamics <br>
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
-3. Non-linear prices in supply chains <br>
+3. Non-Linear Prices in Supply Chains <br>
 with Luca Lorenzini . Job Market Paper 
 
 ## Teaching
