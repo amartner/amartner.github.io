@@ -8,7 +8,6 @@ I am a fifth-year Economics Ph.D. student at UCLA working under the supervision 
 
 ## Working Papers
 <a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>
-Aggregating Distortions in Networks with Multi-Product Firms <br>
 with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a>
 
 ## Work in Progress
