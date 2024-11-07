@@ -17,8 +17,8 @@ with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href=
 with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a href="https://michaelrubens.github.io/"> Michael Rubens</a>
 3. **Monthly Heterogeneous Markup cyclicality and Inflation Dynamics** <br>
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
-4. **Non-Linear Prices in Supply Chains** <br>
-with Luca Lorenzini . Job Market Paper 
+4. **Firm Dynamics and Non-Linear Prices** Job Market Paper  <br>
+with Luca Lorenzini . 
 
 ## Teaching
 - **Instructor**<br>
