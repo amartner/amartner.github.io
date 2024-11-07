@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <p align="justify">
-I am a fifth-year Economics Ph.D. student at UCLA working under the supervision of <a href="https://hopenhayn.weebly.com/"> Hugo Hopenhayn</a>, <a href="http://www.johnasker.com/">   John Asker</a>, and <a href="https://michaelrubens.github.io/"> Michael Rubens</a>.
+I am a fifth-year Economics Ph.D. student at UCLA. My research interests are in macroeconomics and industrial organization.
 </p>
 
 ## Working Papers
