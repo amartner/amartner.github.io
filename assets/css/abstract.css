@@ -1,18 +1,21 @@
 .abstract-toggle {
-  color: var(--link-color, #2a7ae2);
-  cursor: pointer;
-  text-decoration: underline;
-  display: inline;
+    color: var(--link-color, #2a7ae2);
+    cursor: pointer;
+    text-decoration: none;  /* Removed underline */
+    display: inline;
+    font-size: 0.9em;      /* Slightly smaller text */
 }
 
 .abstract-content {
-  display: none;
-  padding: 15px;
-  margin-top: 10px;
-  background-color: var(--code-background-color, #f8f9fa);
-  border-left: 3px solid var(--link-color, #2a7ae2);
+    display: none;
+    padding: 15px;
+    margin: 10px 0;        /* Added margin top and bottom */
+    background-color: var(--code-background-color, #f8f9fa);
+    border-left: 3px solid var(--link-color, #2a7ae2);
+    font-size: 0.95em;     /* Slightly smaller text */
+    line-height: 1.5;      /* Better line spacing */
 }
 
 .abstract-content.visible {
-  display: block;
+    display: block;
 }
