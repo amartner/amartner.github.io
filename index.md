@@ -18,7 +18,7 @@ with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a hr
 3. **Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics** <br>
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
 4. **Nonlinear Prices and Firm Participation**  <br>
-with Luca Lorenzini 
+with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a>  
 
 ## Teaching
 - **Instructor**<br>
