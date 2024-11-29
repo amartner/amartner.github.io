@@ -17,8 +17,8 @@ with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href=
 with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a href="https://michaelrubens.github.io/"> Michael Rubens</a>
 3. **Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics** <br>
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
-4. **Firm Dynamics and Non-Linear Prices**  <br>
-with Luca Lorenzini . 
+4. **Nonlinear Prices and Firm Participation**  <br>
+with Luca Lorenzini 
 
 ## Teaching
 - **Instructor**<br>
