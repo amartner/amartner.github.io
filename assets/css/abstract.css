@@ -1,19 +1,18 @@
 .abstract-toggle {
-    color: rgb(51, 102, 187);
+    color: #000;  /* Black color */
+    font-weight: bold;
     cursor: pointer;
-    text-decoration: none;  /* Removed underline */
+    text-decoration: none;
     display: inline;
-    font-size: 0.9em;      /* Slightly smaller text */
+    font-size: 0.9em;
 }
 
 .abstract-content {
     display: none;
-    padding: 15px;
-    margin: 10px 0;        /* Added margin top and bottom */
-    background-color: var(--code-background-color, #f8f9fa);
-     border-left: 3px solid rgb(51, 102, 187);
-    font-size: 0.95em;     /* Slightly smaller text */
-    line-height: 1.0;      /* Better line spacing */
+    padding: 15px 0;  /* Only top and bottom padding */
+    margin: 10px 0;
+    font-size: 0.95em;
+    line-height: 1;
 }
 
 .abstract-content.visible {
