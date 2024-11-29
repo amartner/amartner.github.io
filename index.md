@@ -8,24 +8,30 @@ I am a fifth-year Economics Ph.D. student at UCLA. My research interests are in 
 
 ## Working Papers
 1. **<a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
-with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract1')">abstract</span>]
-<div id="abstract1" class="abstract-content">
+with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract1.1')">abstract</span>]
+<div id="abstract1.1" class="abstract-content">
     We investigate the role of multiproduct firms in shaping resource misallocation and its impact on aggregate total factor productivity (TFP) growth. Using administrative data on product transactions between all formal Chilean firms, we provide evidence that demand shocks to one product affect the production of other products within the same firm, suggesting that firms engage in joint production. We develop a framework to measure resource misallocation in production networks with joint production, deriving non-parametric sufficient statistics to quantify these effects. Applying the framework to Chile, we find that changes in allocative efficiency explain 86% of the observed aggregate TFP growth for the 2016-2022 period. Ignoring joint production leads to overestimation of changes in allocative efficiency.
 </div>
 
 
 ## Work in Progress
-1. **Growth accounting in Open Economies with Distortions** <br>
-with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>
-2. **Welfare Effects of Buyer and Seller Power** <br>
-with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a href="https://michaelrubens.github.io/"> Michael Rubens</a>
-3. **Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics** <br>
-with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
-4. **Nonlinear Prices and Firm Participation**  <br>
-with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract4')">abstract</span>]
-<div id="abstract4" class="abstract-content">
+1. **Nonlinear Prices and Firm Participation**  <br>
+with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.1')">abstract</span>]
+<div id="abstract2.1" class="abstract-content">
 Market power in vertical supply chains has been argued to generate efficiency and welfare losses. However, the effects of price discrimination on resource allocation and firm participation have remained unexplored. Using invoice data from Chile, we document that nonlinear pricing is prevalent. Nonlinear pricing schemes disproportionately affect small firms through higher marginal prices, leading to distortions in production quantities and firm entry-exit decisions. We develop a tractable supply chain model to analyze these mechanisms, incorporating second-degree price discrimination and endogenous firm participation. Our theoretical framework allows us to compare welfare outcomes in steady state across different scenarios. We find welfare is lower in a nonlinear pricing setup relative to a linear price setting due to decreased firm participation.
 </div>
+2. **Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics** <br>
+with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
+<div id="abstract2.2" class="abstract-content">
+We study the monthly cyclicality of the markup distribution using tax records for Chile. We find that markups (i) are unconditionally countercyclical; (ii) the countercyclicality is heterogeneous along the markups’ distribution; (iii) markups increase in response to a contractionary monetary policy shock, and (iv) firms with higher average markups have more responsive markups to monetary surprises. We calibrate a model of firm heterogeneity with Kimball demands and show that markup heterogeneity affects inflation dynamics. We show that strategic complementarities flatten the Phillips curve through the correlation between market shares and pass-through from marginal costs to prices.
+</div>
+3. **Growth accounting in Open Economies with Distortions** <br>
+with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>
+4. **Welfare Effects of Buyer and Seller Power** <br>
+with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a href="https://michaelrubens.github.io/"> Michael Rubens</a>
+
+
+
 
 ## Teaching
 - **Instructor**<br>
