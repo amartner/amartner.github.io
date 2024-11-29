@@ -8,9 +8,9 @@ I am a fifth-year Economics Ph.D. student at UCLA. My research interests are in 
 
 ## Working Papers
 1. **<a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
-with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract4')">abstract</span>]
-<div id="abstract4" class="abstract-content">
-    In this paper, we study how nonlinear pricing schemes affect firm participation and market outcomes...
+with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract1')">abstract</span>]
+<div id="abstract1" class="abstract-content">
+    We investigate the role of multiproduct firms in shaping resource misallocation and its impact on aggregate total factor productivity (TFP) growth. Using administrative data on product transactions between all formal Chilean firms, we provide evidence that demand shocks to one product affect the production of other products within the same firm, suggesting that firms engage in joint production. We develop a framework to measure resource misallocation in production networks with joint production, deriving non-parametric sufficient statistics to quantify these effects. Applying the framework to Chile, we find that changes in allocative efficiency explain 86% of the observed aggregate TFP growth for the 2016-2022 period. Ignoring joint production leads to overestimation of changes in allocative efficiency.
 </div>
 
 
@@ -22,10 +22,9 @@ with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a hr
 3. **Monthly Heterogeneous Markup Cyclicality and Inflation Dynamics** <br>
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
 4. **Nonlinear Prices and Firm Participation**  <br>
-with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a>
-<div class="abstract-toggle" onclick="toggleAbstract('abstract4')">abstract</div>
+with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract4')">abstract</span>]
 <div id="abstract4" class="abstract-content">
-    In this paper, we study how nonlinear pricing schemes affect firm participation and market outcomes. We develop a model where firms face increasing marginal costs and must decide whether to participate in a market with nonlinear prices. Our analysis shows that nonlinear pricing can lead to strategic entry decisions and affect market efficiency. We find that steeper price schedules can deter entry of less efficient firms while encouraging participation of more productive ones.
+Market power in vertical supply chains has been argued to generate efficiency and welfare losses. However, the effects of price discrimination on resource allocation and firm participation have remained unexplored. Using invoice data from Chile, we document that nonlinear pricing is prevalent. Nonlinear pricing schemes disproportionately affect small firms through higher marginal prices, leading to distortions in production quantities and firm entry-exit decisions. We develop a tractable supply chain model to analyze these mechanisms, incorporating second-degree price discrimination and endogenous firm participation. Our theoretical framework allows us to compare welfare outcomes in steady state across different scenarios. We find welfare is lower in a nonlinear pricing setup relative to a linear price setting due to decreased firm participation.
 </div>
 
 ## Teaching
