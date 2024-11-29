@@ -19,9 +19,9 @@ with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a hr
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
 4. **Nonlinear Prices and Firm Participation**  <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a>
-<div class="abstract-toggle" onclick="toggleAbstract()">abstract</div>
-<div id="abstractContent" class="abstract-content">
-  Market power in vertical supply chains has been argued to generate efficiency and welfare losses. However, the effects of price discrimination on resource allocation and firm participation have remained unexplored. Using invoice data from Chile, we document that nonlinear pricing is prevalent. Nonlinear pricing schemes disproportionately affect small firms through higher marginal prices, leading to distortions in production quantities and firm entry-exit decisions. We develop a tractable supply chain model to analyze these mechanisms, incorporating second-degree price discrimination and endogenous firm participation. Our theoretical framework allows us to compare welfare outcomes in steady state across different scenarios. We find welfare is lower in a nonlinear pricing setup relative to a linear price setting due to decreased firm participation.
+<div class="abstract-toggle" onclick="toggleAbstract('abstract4')">abstract</div>
+<div id="abstract4" class="abstract-content">
+    In this paper, we study how nonlinear pricing schemes affect firm participation and market outcomes. We develop a model where firms face increasing marginal costs and must decide whether to participate in a market with nonlinear prices. Our analysis shows that nonlinear pricing can lead to strategic entry decisions and affect market efficiency. We find that steeper price schedules can deter entry of less efficient firms while encouraging participation of more productive ones.
 </div>
 
 ## Teaching
