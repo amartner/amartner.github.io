@@ -8,11 +8,11 @@ I am a fifth-year Economics Ph.D. student at UCLA. My research interests are in 
 
 ## Working Papers
 1. **<a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
-with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a>
-<div class="abstract-toggle" onclick="toggleAbstract('abstract1')">abstract</div>
-<div id="abstract1" class="abstract-content">
-    Your abstract text here...
+with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract4')">abstract</span>]
+<div id="abstract4" class="abstract-content">
+    In this paper, we study how nonlinear pricing schemes affect firm participation and market outcomes...
 </div>
+
 
 ## Work in Progress
 1. **Growth accounting in Open Economies with Distortions** <br>
