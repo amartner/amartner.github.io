@@ -1,5 +1,5 @@
 .abstract-toggle {
-    color: var(--link-color, #2a7ae2);
+    color: rgb(51, 102, 187);
     cursor: pointer;
     text-decoration: none;  /* Removed underline */
     display: inline;
@@ -11,9 +11,9 @@
     padding: 15px;
     margin: 10px 0;        /* Added margin top and bottom */
     background-color: var(--code-background-color, #f8f9fa);
-    border-left: 3px solid var(--link-color, #2a7ae2);
+     border-left: 3px solid rgb(51, 102, 187);
     font-size: 0.95em;     /* Slightly smaller text */
-    line-height: 1.5;      /* Better line spacing */
+    line-height: 1.0;      /* Better line spacing */
 }
 
 .abstract-content.visible {
