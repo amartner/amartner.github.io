@@ -19,7 +19,7 @@ with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a hr
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  
 4. **Nonlinear Prices and Firm Participation**  <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a>
-<div class="abstract-header">Abstract</div>
+  <div class="abstract-header">Abstract</div>
   <div class="abstract-content">
     BBB
   </div>
