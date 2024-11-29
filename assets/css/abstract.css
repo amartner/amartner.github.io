@@ -1,0 +1,18 @@
+.abstract-toggle {
+  color: var(--link-color, #2a7ae2);
+  cursor: pointer;
+  text-decoration: underline;
+  display: inline;
+}
+
+.abstract-content {
+  display: none;
+  padding: 15px;
+  margin-top: 10px;
+  background-color: var(--code-background-color, #f8f9fa);
+  border-left: 3px solid var(--link-color, #2a7ae2);
+}
+
+.abstract-content.visible {
+  display: block;
+}
