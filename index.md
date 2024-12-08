@@ -35,13 +35,13 @@ with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a hr
 
 ## Teaching
 - **Instructor**<br>
-Microeconomic Theory I, ECON 11 UCLA (Summer 2023, 2024)<br>
-Principles of Economics, ECON 1 UCLA (Spring 2024, Summer 2024)
+Microeconomic Theory I, ECON 11 UCLA (x3)<br>
+Principles of Economics, ECON 1 UCLA (x3)
 
-- **Teaching Assistant** <br>
+- **Teaching Assistant** (2024 best TA award) <br>
 Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
-Microeconomic Theory I, ECON 11 UCLA  <br>
-Principles of Economics, ECON 1 UCLA 
+Microeconomic Theory I, ECON 11 UCLA (Head TA)  <br>
+Principles of Economics, ECON 1 UCLA (Head TA)
 
 ## Pre-doctoral work
 1. <a href="https://www.bcentral.cl/documents/33528/133326/DTBC_1010.pdf/c65a2cc0-e74c-a3aa-28ba-551f0e0e38d4?t=1710187683974">Firm Shocks, Workers Earnings and the Extensive Margin</a> <br> 
