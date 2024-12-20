@@ -29,9 +29,6 @@ We study the monthly cyclicality of the markup distribution using tax records fo
 **Growth Accounting in Open Economies with Distortions** <br>
 with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>
 
-**Welfare Effects of Buyer and Seller Power** <br>
-with  <a href="https://www.mertdemirer.com/ "> Mert Demirer</a>     and    <a href="https://michaelrubens.github.io/"> Michael Rubens</a>
-
 
 ## Teaching
 - **Instructor**<br>
