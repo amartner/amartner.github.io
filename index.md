@@ -52,7 +52,7 @@ Food Policy, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiu
 Central Bank of Chile WP 835, June 2019. with E. Albagli, M. Canales, M. Tapia, and J.M. Wlasiuk
 4. <a href="https://www.un-ilibrary.org/content/books/9789210572187c007">The role of small and medium-sized enterprises in Latin American exports to Asia</a> <br> 
 United Nations Publications, 2016.
-5. <a href="https://repository.eclac.org/handle/11362/37216">Window of opportunity of Chile-Guatemala commercial agreement} (in Spanish)</a> <br> 
+5. <a href="https://repository.eclac.org/handle/11362/37216">Window of opportunity of Chile-Guatemala commercial agreement (in Spanish)</a> <br> 
 ECLAC Publications, 2014 
 
 
