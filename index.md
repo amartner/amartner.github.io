@@ -14,13 +14,13 @@ We investigate the role of multiproduct firms in shaping resource misallocation 
 </div>
 
 ## Work in Progress
-**Nonlinear Prices in Supply Chains. Job Market Paper**  <br>
+**Price Discrimination in Supply Chains**  <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.1')">abstract</span>]
 <div id="abstract2.1" class="abstract-content">
 We examine how price discrimination in supply chains affects resource allocation and welfare. We document prevalent quantity discounts alongside buyer-specific pricing using Chilean firm-to-firm transaction data. We develop a model with an endogenous market structure where firms can price discriminate using a two-part tariff that matches unit prices found in the data. Relative to linear price setups, nonlinear pricing increases output per firm but reduces firm entry by distorting firm profits distribution. Quantitatively, we find that the output increase effect dominates, resulting in higher welfare in nonlinear prices relative to linear price setups. Our calibrated model suggests that the negative welfare effects of markups under nonlinear pricing are approximately 65% of those under linear pricing, indicating standard linear pricing models may overestimate the welfare costs of market power.  
 </div>
 
-**Wedges Distribution and Inflation Dynamics** <br>
+**Markup Distribution and Inflation Dynamics** <br>
 with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
 <div id="abstract2.2" class="abstract-content">
 We study the monthly cyclicality of the markup distribution using tax records for Chile. We find that markups (i) are unconditionally countercyclical; (ii) the countercyclicality is heterogeneous along the markups’ distribution; (iii) markups increase in response to a contractionary monetary policy shock, and (iv) firms with higher average markups have more responsive markups to monetary surprises. We calibrate a model of firm heterogeneity with Kimball demands and show that markup heterogeneity affects inflation dynamics. We show that strategic complementarities flatten the Phillips curve through the correlation between market shares and pass-through from marginal costs to prices.
