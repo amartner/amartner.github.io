@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <p align="justify">
-I am a fifth-year Economics Ph.D. student at UCLA. My research interests are in macroeconomics and industrial organization.
+I am a fifth-year Economics Ph.D. student at UCLA. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 </p>
 
 ## Working Papers
