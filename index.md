@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <p align="justify">
-I am a fifth-year Economics Ph.D. student at UCLA. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
+I am a Ph.D. student in economics at UCLA. I will be on the job market during the 2025-26 academic year. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 </p>
 
 ## Working Papers
@@ -14,23 +14,24 @@ We investigate the role of multiproduct firms in shaping resource misallocation 
 </div>
 
 ## Work in Progress
-**Price Discrimination in Supply Chains**  <br>
+**The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains (JMP)**  <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.1')">abstract</span>]
 <div id="abstract2.1" class="abstract-content">
-We examine how price discrimination in supply chains affects resource allocation and welfare. We document prevalent quantity discounts alongside buyer-specific pricing using Chilean firm-to-firm transaction data. We develop a model with an endogenous market structure where firms can price discriminate using a two-part tariff that matches unit prices found in the data. Relative to linear price setups, nonlinear pricing increases output per firm but reduces firm entry by distorting firm profits distribution. Quantitatively, we find that the output increase effect dominates, resulting in higher welfare in nonlinear prices relative to linear price setups. Our calibrated model suggests that the negative welfare effects of markups under nonlinear pricing are approximately 65% of those under linear pricing, indicating standard linear pricing models may overestimate the welfare costs of market power.  
-</div>
-
-**Markup Distribution and Inflation Dynamics** <br>
-with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
-<div id="abstract2.2" class="abstract-content">
-We study the monthly cyclicality of the markup distribution using tax records for Chile. We find that markups (i) are unconditionally countercyclical; (ii) the countercyclicality is heterogeneous along the markups’ distribution; (iii) markups increase in response to a contractionary monetary policy shock, and (iv) firms with higher average markups have more responsive markups to monetary surprises. We calibrate a model of firm heterogeneity with Kimball demands and show that markup heterogeneity affects inflation dynamics. We show that strategic complementarities flatten the Phillips curve through the correlation between market shares and pass-through from marginal costs to prices.
+We study how nonlinear prices in supply chains affect resource allocation, rent distribution, firm entry, and aggregate welfare. We develop a general equilibrium model in which firms both charge and pay nonlinear prices along the supply chain. Relative to linear pricing, nonlinear prices increase firm-level output but reduce firm entry by distorting the distribution of profits, yielding ambiguous welfare effects. Using transaction-level data from Chilean firms, we document robust evidence consistent with widespread nonlinear pricing across buyer groups. Calibrating the model to the data, we find that nonlinear pricing raises production but deters entry. In equilibrium, the output gains dominate: aggregate welfare losses from market power are approximately 18\% lower under nonlinear pricing. These findings suggest that models assuming linear pricing may overstate the welfare costs of market power and that, in some contexts, nonlinear pricing can be welfare-enhancing. 
 </div>
 
 **The Anatomy of Aggregate Productivity** <br>
-with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.3')">abstract</span>]
-<div id="abstract2.3" class="abstract-content">
-In the presence of distortions, the change in granular technology and reallocation of resources towards more efficient uses, namely allocative efficiency, are the drivers for aggregate productivity growth. Nevertheless, technology and allocative efficiency continue to be a black box. We present a theory that allows for the structural dissection of aggregate technology and allocative efficiency into an arbitrary partition of the economy's final demand. For each group of final demand, technology and allocative efficiency evolve according to sufficient statistics of input-output elasticities, factor shares, and distortions in any input of the economy. We propose a new disaggregated Domar weight using these sufficient statistics. We apply our results by using administrative firm-to-firm tax data to revisit the aggregate productivity stagnation of Chile since 2010. We find that technology accounts for around 40% of TFP growth stagnation, while allocative efficiency explains the remaining 60%. We unpack the stagnation at the industry, location, firm size, and firm export status levels for around 90,000 final demand groups.
+with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
+<div id="abstract2.2" class="abstract-content">
+We present an aggregation result that structurally dissects the drivers of aggregate productivity, i.e., technology and the reallocation of resources, across arbitrary parts of the economy using sufficient statistics that can be measured with standard datasets. Besides the typical statistics of factor shares and distortion changes, consumption share changes emerge as a new sufficient statistics that capture an income redistribution channel between households. This channel reflects how changes in households' income propagate upstream, influencing the allocation of resources across firms. We apply our results to revisit Chile's aggregate productivity stagnation since 2010, leveraging two decades of administrative firm-to-firm data. This stagnation is almost entirely driven by the reallocation of resources. Exports of mining, domestic output of manufacturing and retail, and incumbent large firms shape the bulk of this stagnation.
 </div>
+
+**Markup Distribution and Inflation Dynamics** <br>
+with <a href="https://jianyulu.weebly.com/"> Will Lu</a>  and <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.3')">abstract</span>]
+<div id="abstract2.3" class="abstract-content">
+We study the monthly cyclicality of the markup distribution using tax records for Chile. We find that markups (i) are unconditionally countercyclical; (ii) the countercyclicality is heterogeneous along the markups’ distribution; (iii) markups increase in response to a contractionary monetary policy shock, and (iv) firms with higher average markups have more responsive markups to monetary surprises. We calibrate a model of firm heterogeneity with Kimball demands and show that markup heterogeneity affects inflation dynamics. We show that strategic complementarities flatten the Phillips curve through the correlation between market shares and pass-through from marginal costs to prices.
+</div>
+
 
 
 ## Teaching
@@ -38,10 +39,10 @@ In the presence of distortions, the change in granular technology and reallocati
 Microeconomic Theory I, ECON 11 UCLA (x3)<br>
 Principles of Economics, ECON 1 UCLA (x3)
 
-- **Teaching Assistant** (2024 best TA award) <br>
-Industrial Organization: Policy and Regulation, ECON 171 UCLA <br>
-Microeconomic Theory I, ECON 11 UCLA (Head TA)  <br>
-Principles of Economics, ECON 1 UCLA (Head TA)
+- **Teaching Assistant**  <br>
+Industrial Organization: Policy and Regulation, ECON 171 UCLA <br> 
+Principles of Economics, ECON 1 UCLA (Head TA) (2024 best TA award) <br>
+Microeconomic Theory I, ECON 11 UCLA (Head TA) 
 
 ## Pre-doctoral work
 1. <a href="https://www.bcentral.cl/documents/33528/133326/DTBC_1010.pdf/c65a2cc0-e74c-a3aa-28ba-551f0e0e38d4?t=1710187683974">Firm Shocks, Workers Earnings and the Extensive Margin</a> <br> 
