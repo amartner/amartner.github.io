@@ -17,9 +17,8 @@ We study how nonlinear prices in supply chains affect resource allocation, rent 
 
 
 **<a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
-with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a>
-<a href="https://https://www.bcentral.cl/en/content/-/detalle/documento-de-trabajo-1022/"> Central Bank of Chile WP 1049 </a>
-
+with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> <br>
+<a href="https://https://www.bcentral.cl/en/content/-/detalle/documento-de-trabajo-1022/"> Central Bank of Chile WP 1022 </a>
 [<span class="abstract-toggle" onclick="toggleAbstract('abstract1.2')">abstract</span>]
 <div id="abstract1.2" class="abstract-content">
 We investigate the role of multiproduct firms in shaping resource misallocation and its impact on aggregate total factor productivity (TFP) growth. Using administrative data on product transactions between all formal Chilean firms, we provide evidence that demand shocks to one product affect the production of other products within the same firm, suggesting that firms engage in joint production. We develop a framework to measure resource misallocation in production networks with joint production, deriving non-parametric sufficient statistics to quantify these effects. Applying the framework to Chile, we find that changes in allocative efficiency explain 86% of the observed aggregate TFP growth for the 2016-2022 period. Ignoring joint production leads to overestimation of changes in allocative efficiency.
@@ -28,14 +27,14 @@ We investigate the role of multiproduct firms in shaping resource misallocation 
 ## Work in Progress
 
 **The Anatomy of Aggregate Productivity** <br>
-with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
-<div id="abstract2.2" class="abstract-content">
+with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>   and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a> [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.1')">abstract</span>]
+<div id="abstract2.1" class="abstract-content">
 We present an aggregation result that structurally dissects the drivers of aggregate productivity, i.e., technology and the reallocation of resources, across arbitrary parts of the economy using sufficient statistics that can be measured with standard datasets. Besides the typical statistics of factor shares and distortion changes, consumption share changes emerge as new sufficient statistics that capture an income redistribution channel between households. This channel reflects how changes in households' income propagate upstream, influencing the allocation of resources across firms. We apply our results to revisit Chile's aggregate productivity stagnation since 2010, leveraging two decades of administrative firm-to-firm data. This stagnation is almost entirely driven by the reallocation of resources. Exports of mining, domestic output of manufacturing and retail, and incumbent large firms shape the bulk of this stagnation.
 </div>
 
 **Markup Distribution and Aggregate Dynamics** <br>
-with <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.3')">abstract</span>]
-<div id="abstract2.3" class="abstract-content">
+with <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
+<div id="abstract2.2" class="abstract-content">
 Using administrative firm-level data from Chile, we estimate monthly level markups and document that markups are countercyclical and that their dispersion rises during downturns, particularly among high markup firms. To interpret these facts, we develop a New Keynesian model with heterogeneous firms, endogenous markups, and nominal rigidities. Firms with greater market power adjust prices less, amplifying and prolonging output responses through persistent markup dispersion. This amplification is stronger under high-demand superelasticity and persistent shocks. Quantitatively, the aggregate GDP response to an aggregate demand shock can be up to 20% larger than in representative-firm models. These results help understand aggregate dynamics and the effects of market power in macroeconomic stabilization.
 </div>
 
