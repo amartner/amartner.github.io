@@ -16,7 +16,7 @@ We study how nonlinear prices in supply chains affect resource allocation, rent 
 </div>
 
 
-**<a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> 2. Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
+**2. <a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
 with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> <br>
 <a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1022">  Central Bank of Chile WP 1022 </a>
 [<span class="abstract-toggle" onclick="toggleAbstract('abstract1.2')">abstract</span>]
