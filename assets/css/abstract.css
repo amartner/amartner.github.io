@@ -1,6 +1,6 @@
 .abstract-toggle {
     color: #000;  /* Black color */
-    font-weight: bold;
+    font-weight: normal;
     cursor: pointer;
     text-decoration: none;
     display: inline;
