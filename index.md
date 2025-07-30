@@ -11,7 +11,7 @@ I am a Ph.D. student in economics at UCLA. I will be on the job market during th
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> <br>
 <a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049"> Central Bank of Chile WP 1049 </a>
 [<span class="abstract-toggle" onclick="toggleAbstract('abstract1.1')">abstract</span>]
-<div id="abstract1.1" class="abstract-content" style="font-weight: normal;">
+<div id="abstract1.1" class="abstract-content">
 We study how nonlinear prices in supply chains affect resource allocation, rent distribution, firm entry, and aggregate welfare. We develop a general equilibrium model in which firms both charge and pay nonlinear prices along the supply chain. Relative to linear pricing, nonlinear prices increase firm-level output but reduce firm entry by distorting the distribution of profits, yielding ambiguous welfare effects. Using transaction-level data from Chilean firms, we document robust evidence consistent with widespread nonlinear pricing across buyer groups. Calibrating the model to the data, we find that nonlinear pricing raises production but deters entry. In equilibrium, the output gains dominate: aggregate welfare losses from market power are approximately 18% lower under nonlinear pricing. These findings suggest that models assuming linear pricing may overstate the welfare costs of market power and that, in some contexts, nonlinear pricing can be welfare-enhancing. 
 </div>
 
