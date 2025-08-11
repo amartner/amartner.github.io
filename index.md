@@ -33,7 +33,7 @@ We present an aggregation result that structurally dissects the drivers of aggre
 </div>
 
 **4. Markup Distribution and Aggregate Dynamics** <br>
-with <a href="https://www.mariogiarda.com/"> Mario Giarda</a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
+with <a href="https://www.mariogiarda.com/"> Mario Giarda</a>, and Will Lu  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
 <div id="abstract2.2" class="abstract-content">
 Using administrative firm-level data from Chile, we estimate monthly level markups and document that markups are countercyclical and that their dispersion rises during downturns, particularly among high markup firms. To interpret these facts, we develop a New Keynesian model with heterogeneous firms, endogenous markups, and nominal rigidities. Firms with greater market power adjust prices less, amplifying and prolonging output responses through persistent markup dispersion. This amplification is stronger under high-demand superelasticity and persistent shocks. Quantitatively, the aggregate GDP response to an aggregate demand shock can be up to 20% larger than in representative-firm models. These results help understand aggregate dynamics and the effects of market power in macroeconomic stabilization.
 </div>
