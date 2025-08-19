@@ -20,7 +20,7 @@ Antonio Martner
 I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025-26 academic year. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 </p>
 
-# Working Papers
+## Working Papers
 **1. The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains (Job Market Paper)**  <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> <br>
 <a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049"> Central Bank of Chile WP 1049 </a>
