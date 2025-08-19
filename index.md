@@ -7,7 +7,7 @@ layout: homepage
   }
 
   h1, h2, h3 {
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: "Helvetica Neue", Helvetica, Arial;
   }
 </style>
 
@@ -30,7 +30,7 @@ I am a Ph.D. candidate in economics at UCLA. I will be on the job market during 
 </p>
 
 ## Working Papers
-**1. The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains **  <br>
+**1. The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains**  <br>
 (Job Market Paper) <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> <br>
 <a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049"> Central Bank of Chile WP 1049 </a>
