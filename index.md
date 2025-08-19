@@ -2,6 +2,16 @@
 layout: homepage
 ---
 
+<head>
+  <style>
+    h1 {
+      font-size: 60px;    /* adjust as you like */
+      line-height: 1.2;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
 <h1 align="center">
 Antonio Martner
 </h1>
