@@ -2,8 +2,11 @@
 layout: homepage
 ---
 
+<h align="center">
+Antonio Martner
+</p>
 <p align="justify">
-I am a Ph.D. student in economics at UCLA. I will be on the job market during the 2025-26 academic year. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
+I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025-26 academic year. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 </p>
 
 ## Working Papers
