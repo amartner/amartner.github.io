@@ -1,6 +1,15 @@
 ---
 layout: homepage
 ---
+<style>
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  h1, h2, h3 {
+    font-family: Georgia, "Times New Roman", serif;
+  }
+</style>
 
 <head>
   <style>
