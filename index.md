@@ -34,27 +34,12 @@ I am a Ph.D. candidate in economics at UCLA. I will be on the job market during 
 (Job Market Paper) <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> <br>
 <a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049"> Central Bank of Chile WP 1049 </a>
-[<span class="abstract-toggle" onclick="toggleAbstract('abstract1.1')">abstract</span>]
-<div id="abstract1.1" class="abstract-content">
-We study how nonlinear prices in supply chains affect resource allocation, rent distribution, firm entry, and aggregate welfare. We develop a general equilibrium model in which firms both charge and pay nonlinear prices along the supply chain. Relative to linear pricing, nonlinear prices increase firm-level output but reduce firm entry by distorting the distribution of profits, yielding ambiguous welfare effects. Using transaction-level data from Chilean firms, we document robust evidence consistent with widespread nonlinear pricing across buyer groups. Calibrating the model to the data, we find that nonlinear pricing raises production but deters entry. In equilibrium, the output gains dominate: aggregate welfare losses from market power are approximately 18% lower under nonlinear pricing. These findings suggest that models assuming linear pricing may overstate the welfare costs of market power and that, in some contexts, nonlinear pricing can be welfare-enhancing. 
-</div>
-
 
 **2. <a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
 with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> <br>
-<a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1022">  Central Bank of Chile WP 1022 </a>
-[<span class="abstract-toggle" onclick="toggleAbstract('abstract1.2')">abstract</span>]
-<div id="abstract1.2" class="abstract-content">
-We investigate the role of multiproduct firms in shaping resource misallocation and its impact on aggregate total factor productivity (TFP) growth. Using administrative data on product transactions between all formal Chilean firms, we provide evidence that demand shocks to one product affect the production of other products within the same firm, suggesting that firms engage in joint production. We develop a framework to measure resource misallocation in production networks with joint production, deriving non-parametric sufficient statistics to quantify these effects. Applying the framework to Chile, we find that changes in allocative efficiency explain 86% of the observed aggregate TFP growth for the 2016-2022 period. Ignoring joint production leads to overestimation of changes in allocative efficiency.
-</div>
-
 
 **3. <a href="https://amartner.github.io/TFP_Anatomy_August2025.pdf"> The Anatomy of Aggregate Productivity </a>**  
 with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>   
-[<span class="abstract-toggle" onclick="toggleAbstract('abstract1.3')">abstract</span>]
-<div id="abstract1.3" class="abstract-content">
-We present an aggregation result that structurally dissects the drivers of aggregate productivity, i.e., technology and the reallocation of resources, across arbitrary parts of the economy using sufficient statistics that can be measured with standard datasets. Besides the typical statistics of factor shares and distortion changes, consumption share changes emerge as a new sufficient statistics that capture an income redistribution channel between households. This channel reflects how changes in households' income propagate upstream, influencing the allocation of resources across firms. We apply our results to revisit Chile's aggregate productivity stagnation since 2010, leveraging two decades of administrative firm-to-firm data. This stagnation is almost entirely driven by the reallocation of resources and in particular by expenditure changes of specific groups of the economy. Exports of mining, domestic output of manufacturing and retail, and incumbent large firms shape the bulk of this reallocation.
-</div>
 
 ## Work in Progress
 
@@ -63,7 +48,6 @@ with <a href="https://www.mariogiarda.com/"> Mario Giarda</a> and <a href="https
 <div id="abstract2.2" class="abstract-content">
 Using administrative firm-level data from Chile, we estimate monthly level markups and document that markups are countercyclical and that their dispersion rises during downturns, particularly among high markup firms. To interpret these facts, we develop a New Keynesian model with heterogeneous firms, endogenous markups, and nominal rigidities. Firms with greater market power adjust prices less, amplifying and prolonging output responses through persistent markup dispersion. This amplification is stronger under high-demand superelasticity and persistent shocks. Quantitatively, the aggregate GDP response to an aggregate demand shock can be up to 20% larger than in representative-firm models. These results help understand aggregate dynamics and the effects of market power in macroeconomic stabilization.
 </div>
-
 
 
 ## Teaching
