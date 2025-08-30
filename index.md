@@ -50,7 +50,7 @@ We investigate the role of multiproduct firms in shaping resource misallocation 
 
 
 **3. <a href="https://amartner.github.io/TFP_Anatomy_August2025.pdf"> The Anatomy of Aggregate Productivity </a>**  
-with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a> <br>  
+with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>   
 [<span class="abstract-toggle" onclick="toggleAbstract('abstract1.3')">abstract</span>]
 <div id="abstract1.3" class="abstract-content">
 We present an aggregation result that structurally dissects the drivers of aggregate productivity, i.e., technology and the reallocation of resources, across arbitrary parts of the economy using sufficient statistics that can be measured with standard datasets. Besides the typical statistics of factor shares and distortion changes, consumption share changes emerge as a new sufficient statistics that capture an income redistribution channel between households. This channel reflects how changes in households' income propagate upstream, influencing the allocation of resources across firms. We apply our results to revisit Chile's aggregate productivity stagnation since 2010, leveraging two decades of administrative firm-to-firm data. This stagnation is almost entirely driven by the reallocation of resources and in particular by expenditure changes of specific groups of the economy. Exports of mining, domestic output of manufacturing and retail, and incumbent large firms shape the bulk of this reallocation.
