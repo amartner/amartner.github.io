@@ -49,7 +49,7 @@ We investigate the role of multiproduct firms in shaping resource misallocation 
 </div>
 
 
-**3. <a href="https://amartner.github.io/TFP_Anatomy_August2025.pdf"> The Anatomy of Aggregate Productivity </a>** <br>  
+**3. <a href="https://amartner.github.io/TFP_Anatomy_August2025.pdf"> The Anatomy of Aggregate Productivity </a>**  
 with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a> <br>  
 [<span class="abstract-toggle" onclick="toggleAbstract('abstract1.3')">abstract</span>]
 <div id="abstract1.3" class="abstract-content">
