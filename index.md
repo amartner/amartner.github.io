@@ -35,19 +35,14 @@ I am a Ph.D. candidate in economics at UCLA. I will be on the job market during 
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> <br>
 <a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049"> Central Bank of Chile WP 1049 </a>
 
-**2. <a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
-with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> <br>
+**2. <a href="https://amartner.github.io/TFP_A_250905.pdf"> The Anatomy of Aggregate Productivity </a>**  
+with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>   | Submitted
 
-**3. <a href="https://amartner.github.io/TFP_Anatomy_August2025.pdf"> The Anatomy of Aggregate Productivity </a>**  
-with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>   
+**3. <a href="https://amartner.github.io/Mu_c_09052025.pdf"> Markup Distribution and Aggregate Dynamics</a>**    
+with <a href="https://www.mariogiarda.com/"> Mario Giarda</a> and <a href="https://jianyulu.weebly.com/"> Will Jianyu Lu </a>  | Submitted
 
-## Work in Progress
-
-**4. Markup Distribution and Aggregate Dynamics** <br>
-with <a href="https://www.mariogiarda.com/"> Mario Giarda</a> and <a href="https://jianyulu.weebly.com/"> Will Jianyu Lu </a>  [<span class="abstract-toggle" onclick="toggleAbstract('abstract2.2')">abstract</span>]
-<div id="abstract2.2" class="abstract-content">
-Using administrative firm-level data from Chile, we estimate monthly level markups and document that markups are countercyclical and that their dispersion rises during downturns, particularly among high markup firms. To interpret these facts, we develop a New Keynesian model with heterogeneous firms, endogenous markups, and nominal rigidities. Firms with greater market power adjust prices less, amplifying and prolonging output responses through persistent markup dispersion. This amplification is stronger under high-demand superelasticity and persistent shocks. Quantitatively, the aggregate GDP response to an aggregate demand shock can be up to 20% larger than in representative-firm models. These results help understand aggregate dynamics and the effects of market power in macroeconomic stabilization.
-</div>
+**4. <a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
+with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> <br> 
 
 
 ## Teaching
