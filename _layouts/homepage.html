@@ -76,44 +76,23 @@
     .home-hero .hero-photo { margin: 12px auto 0; }
   }
 
-  /* Simple button for CV */
-  .btn {
-    display: inline-block;
-    padding: 0.45rem 0.7rem;
-    border: 1px solid #043361;
-    border-radius: 8px;
-    text-decoration: none;
-    color: #043361;
-  }
-  .btn:hover { background: #043361; color: #fff; }
+/* Titles: keep current navy */
+h1, h2, h3, h4, h5, h6 { color: #043361; }
 
-  /* Accent blue from the site you like */
-:root{
-  --accent: #123A86;        /* primary navy */
-  --accent-hover: #0E2E69;  /* darker hover */
-  --accent-visited: #0C2554;
-  --accent-tint: #E6EEFF;   /* subtle tint */
-}
+/* Links: slightly lighter navy */
+a { color: #1F5EA8; }
+a:hover, a:focus { text-decoration: underline; }
 
-/* Links */
-a { color: var(--accent); }
-a:hover, a:focus { color: var(--accent-hover); text-decoration: underline; }
-a:visited { color: var(--accent-visited); }
-
-/* CV button */
+/* CV button styled to match links */
 .btn {
   display: inline-block;
   padding: 0.45rem 0.7rem;
-  border: 1px solid var(--accent);
-  color: var(--accent);
+  border: 1px solid #1F5EA8;
+  color: #1F5EA8;
   border-radius: 8px;
   text-decoration: none;
 }
-.btn:hover { background: var(--accent); color: #fff; border-color: var(--accent-hover); }
-
-/* Optional: use blue for small accents like section labels */
-small, .eyebrow { color: var(--accent); }
-  
+.btn:hover { background: #1F5EA8; color: #fff; }
 </style>
 
   </head>
