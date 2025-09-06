@@ -24,6 +24,8 @@ Email: amartner@ucla.edu
 
 ## WORKING PAPERS
 
+<div class="papers" markdown="1">
+
 **[The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049)**  
 (Job Market Paper)  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
@@ -38,6 +40,7 @@ with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://j
 with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 <br> <br>
 
+</div>
 
 ## TEACHING
 
