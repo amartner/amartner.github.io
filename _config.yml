@@ -2,7 +2,7 @@
 title: ""
 # position: ""
 # affiliation: ""
-email: amartner@ucla.edu
+#email: amartner@ucla.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,8 +12,8 @@ canonical: https://amartner.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=tb_B8ZIAAAAJ&hl=en
-cv_link: https://amartner.github.io/cv_june2025.pdf
+#google_scholar: https://scholar.google.com/citations?user=tb_B8ZIAAAAJ&hl=en
+#cv_link: https://amartner.github.io/cv_june2025.pdf
 #github_link: https://github.com/
 #linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/
