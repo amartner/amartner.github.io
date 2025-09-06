@@ -10,6 +10,8 @@ title: Antonio Martner
 
 # ANTONIO MARTNER
 
+<br>
+
 I am a Ph.D. candidate in economics at UCLA. I will be on the job market <br>
 during the 2025–26 academic year and expect to graduate in March 2026.
 
