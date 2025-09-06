@@ -47,6 +47,8 @@ with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 Microeconomic Theory I, ECON 11 UCLA (×3)  
 Principles of Economics, ECON 1 UCLA (×3)
 
+<br>
+
 ### Teaching Assistant
 Industrial Organization: Policy and Regulation, ECON 171 UCLA  
 Principles of Economics, ECON 1 UCLA (Head TA) (2024 Best TA Award)  
@@ -58,19 +60,22 @@ Microeconomic Theory I, ECON 11 UCLA (Head TA)
 
 [**Firm Shocks, Workers Earnings and the Extensive Margin**](https://www.bcentral.cl/en/content/-/details/documento-de-trabajo-n-1010)  
 Central Bank of Chile WP 1010, March 2024. with A. Castillo, A.S. León, and M. Tapia  
+
 <br>
 
 [**Front-of-Package Warning Label Effects on Manufacturing Labor Outcomes in Chile**](https://www.sciencedirect.com/science/article/pii/S0306919220302220)  
 *Food Policy*, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiuk, and B.M. Popkin  
+
 <br>
 
 [**Misallocation or Misspecification? The Effect of Average Distortions on TFP Gains Estimations**](https://www.bcentral.cl/documents/33528/133326/dtbc835.pdf/e7b4b638-ea7d-fe32-e360-4f79ece2edf4?t=1655149225333)  
 Central Bank of Chile WP 835, June 2019. with E. Albagli, M. Canales, M. Tapia, and J.M. Wlasiuk  
+
 <br>
 
 [**The Role of Small and Medium-Sized Enterprises in Latin American Exports to Asia**](https://www.un-ilibrary.org/content/books/9789210572187c007)  
 United Nations Publications, 2016.  
-<br>
+
 
 [**Window of Opportunity of Chile–Guatemala Commercial Agreement (in Spanish)**](https://repository.eclac.org/handle/11362/37216)  
 ECLAC Publications, 2014
