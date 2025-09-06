@@ -5,7 +5,7 @@ title: Antonio Martner
 
 # Antonio Martner
 
-![Antonio Martner](/assets/img/headshot.jpg){: .headshot }
+![Antonio Martner](/assets/img/AMartnerweb.jpg){: .headshot }
 
 I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025–26 academic year and expect to graduate in March, 2026. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 
