@@ -12,11 +12,9 @@ title: Antonio Martner
 
 <br>
 
-I am a Ph.D. candidate in economics at UCLA. I will be on the job market <br>
-during the 2025–26 academic year and expect to graduate in March 2026.
+I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025–26 academic year and expect to graduate in March 2026.
 
-My research interests are in Macroeconomics and Industrial Organization <br>
-with a focus on Production Networks.
+My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 
 Please find my [CV here](https://amartner.github.io/cv_june2025.pdf)  
 Email: amartner@ucla.edu
