@@ -38,9 +38,12 @@ with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://j
 
 **[Aggregating Distortions in Networks with Multiproduct Firms](https://yasutakakoike-mori.com/files/Yasu_JMP.pdf)**  
 with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
-<br> <br>
 
 </div>
+
+<br> <br>
+
+
 
 ## TEACHING
 
