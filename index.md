@@ -57,6 +57,8 @@ Microeconomic Theory I, ECON 11 UCLA (Head TA)
 
 ## PRE-DOCTORAL WORK
 
+<div class="papers" markdown="1">
+
 [**Firm Shocks, Workers Earnings and the Extensive Margin**](https://www.bcentral.cl/en/content/-/details/documento-de-trabajo-n-1010)  
 Central Bank of Chile WP 1010, March 2024. with A. Castillo, A.S. León, and M. Tapia  
 
@@ -71,3 +73,6 @@ United Nations Publications, 2016.
 
 [**Window of Opportunity of Chile–Guatemala Commercial Agreement (in Spanish)**](https://repository.eclac.org/handle/11362/37216)  
 ECLAC Publications, 2014
+
+</div>
+
