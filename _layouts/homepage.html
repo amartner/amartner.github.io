@@ -89,15 +89,18 @@
 
   /* Accent blue from the site you like */
 :root{
-  --accent: #1A73E8;   /* primary blue */
-  --accent-hover: #174EA6; /* darker hover */
+  --accent: #123A86;        /* primary navy */
+  --accent-hover: #0E2E69;  /* darker hover */
+  --accent-visited: #0C2554;
+  --accent-tint: #E6EEFF;   /* subtle tint */
 }
 
 /* Links */
 a { color: var(--accent); }
 a:hover, a:focus { color: var(--accent-hover); text-decoration: underline; }
+a:visited { color: var(--accent-visited); }
 
-/* Optional: buttons that match your CV link */
+/* CV button */
 .btn {
   display: inline-block;
   padding: 0.45rem 0.7rem;
