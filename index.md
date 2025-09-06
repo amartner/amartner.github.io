@@ -1,89 +1,54 @@
 ---
 layout: homepage
+title: Antonio Martner
 ---
-<style>
-  /* Base body text (non-headings) */
-  body {
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 15px;
-    line-height: 1.6;
-    color: #000; /* force body text to black */
-  }
 
-  /* Make sure typical body elements inherit black as well */
-  p, li, blockquote, dd, td, th {
-    color: #000;
-  }
+# Antonio Martner
 
-  /* Headings keep your sans-serif stack */
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #000;
-  }
+![Antonio Martner](/assets/img/headshot.jpg){: .headshot }
 
-  /* Heading size for H1 (was in a separate <head> before) */
-  h1 {
-    font-size: 40px;     /* adjust as you like */
-    line-height: 1.2;
-    font-weight: bold;
-  }
-</style>
+I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025–26 academic year and expect to graduate in March, 2026. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 
+## WORKING PAPERS
 
+**THE AGGREGATE WELFARE EFFECTS OF NONLINEAR PRICES IN SUPPLY CHAINS**  
+(Job Market Paper)  
+with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
+[Central Bank of Chile WP 1049](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049)
 
+**[THE ANATOMY OF AGGREGATE PRODUCTIVITY](https://amartner.github.io/TFP_A_250905.pdf)**  
+with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) · Submitted
 
+**[MARKUP DISTRIBUTION AND AGGREGATE DYNAMICS](https://amartner.github.io/Mu_c_09052025.pdf)**  
+with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://jianyulu.weebly.com/) · Submitted
 
-<h1 align="center">
-Antonio Martner
-</h1>
-  
-<p align="justify">
-I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025-26 academic year and expect to graduate in March, 2026. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
-</p>
+**[AGGREGATING DISTORTIONS IN NETWORKS WITH MULTI-PRODUCT FIRMS](https://yasutakakoike-mori.com/files/Yasu_JMP.pdf)**  
+with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 
-## Working Papers
-**THE AGGREGATE WELFARE EFFECTS OF NONLINEAR PRICES IN SUPPLY CHAINS**  <br>
-(Job Market Paper) <br>
-with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> <br>
-<a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049"> Central Bank of Chile WP 1049 </a>
+## TEACHING
 
-**<a href="https://amartner.github.io/TFP_A_250905.pdf"> THE ANATOMY OF AGGREGATE PRODUCTIVITY</a>**  
-with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>   | Submitted
+### INSTRUCTOR
+Microeconomic Theory I, ECON 11 UCLA (×3)  
+Principles of Economics, ECON 1 UCLA (×3)
 
-**<a href="https://amartner.github.io/Mu_c_09052025.pdf"> Markup Distribution and Aggregate Dynamics</a>**    
-with <a href="https://www.mariogiarda.com/"> Mario Giarda</a> and <a href="https://jianyulu.weebly.com/"> Will Jianyu Lu </a>  | Submitted
+### TEACHING ASSISTANT
+Industrial Organization: Policy and Regulation, ECON 171 UCLA  
+Principles of Economics, ECON 1 UCLA (Head TA) (2024 Best TA Award)  
+Microeconomic Theory I, ECON 11 UCLA (Head TA)
 
-**<a href="https://yasutakakoike-mori.com/files/Yasu_JMP.pdf"> Aggregating Distortions in Networks with Multi-Product Firms </a>** <br>
-with <a href="https://yasutakakoike-mori.com/"> Yasutaka  Koike-Mori</a> <br> 
+## PRE-DOCTORAL WORK
 
-
-## Teaching
-**Instructor**<br>
-Microeconomic Theory I, ECON 11 UCLA (x3)<br>
-Principles of Economics, ECON 1 UCLA (x3)
-
-**Teaching Assistant**  <br>
-Industrial Organization: Policy and Regulation, ECON 171 UCLA <br> 
-Principles of Economics, ECON 1 UCLA (Head TA) (2024 best TA award) <br>
-Microeconomic Theory I, ECON 11 UCLA (Head TA) 
-
-## Pre-doctoral work
-<a href="https://www.bcentral.cl/en/content/-/details/documento-de-trabajo-n-1010">Firm Shocks, Workers Earnings and the Extensive Margin</a> <br> 
+[**FIRM SHOCKS, WORKERS EARNINGS AND THE EXTENSIVE MARGIN**](https://www.bcentral.cl/en/content/-/details/documento-de-trabajo-n-1010)  
 Central Bank of Chile WP 1010, March 2024. with A. Castillo, A.S. León, and M. Tapia
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0306919220302220">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> <br>
-Food Policy, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiuk, and B.M. Popkin
+[**FRONT-OF-PACKAGE WARNING LABEL EFFECTS ON MANUFACTURING LABOR OUTCOMES IN CHILE**](https://www.sciencedirect.com/science/article/pii/S0306919220302220)  
+*Food Policy*, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiuk, and B.M. Popkin
 
-<a href="https://www.bcentral.cl/documents/33528/133326/dtbc835.pdf/e7b4b638-ea7d-fe32-e360-4f79ece2edf4?t=1655149225333">Misallocation or Misspecification? The Effect of Average Distortions on TFP Gains Estimations</a> <br> 
+[**MISALLOCATION OR MISSPECIFICATION? THE EFFECT OF AVERAGE DISTORTIONS ON TFP GAINS ESTIMATIONS**](https://www.bcentral.cl/documents/33528/133326/dtbc835.pdf/e7b4b638-ea7d-fe32-e360-4f79ece2edf4?t=1655149225333)  
 Central Bank of Chile WP 835, June 2019. with E. Albagli, M. Canales, M. Tapia, and J.M. Wlasiuk
 
-<a href="https://www.un-ilibrary.org/content/books/9789210572187c007">The role of small and medium-sized enterprises in Latin American exports to Asia</a> <br> 
+[**THE ROLE OF SMALL AND MEDIUM-SIZED ENTERPRISES IN LATIN AMERICAN EXPORTS TO ASIA**](https://www.un-ilibrary.org/content/books/9789210572187c007)  
 United Nations Publications, 2016.
 
-<a href="https://repository.eclac.org/handle/11362/37216">Window of opportunity of Chile-Guatemala commercial agreement (in Spanish)</a> <br> 
-ECLAC Publications, 2014 
-
-
-
-
-
+[**WINDOW OF OPPORTUNITY OF CHILE–GUATEMALA COMMERCIAL AGREEMENT (IN SPANISH)**](https://repository.eclac.org/handle/11362/37216)  
+ECLAC Publications, 2014
