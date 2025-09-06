@@ -3,10 +3,13 @@ layout: homepage
 title: Antonio Martner
 ---
 
-# ANTONIO MARTNER
+
 
 <section class="home-hero">
   <div class="hero-text" markdown="1">
+
+# ANTONIO MARTNER
+
 I am a Ph.D. candidate in economics at UCLA. I will be on the job market <br>
 during the 2025–26 academic year and expect to graduate in March 2026.
 
@@ -16,10 +19,8 @@ with a focus on Production Networks.
 Please find my [CV here](https://amartner.github.io/cv_june2025.pdf)  
 Email: amartner@ucla.edu
   </div>
-
   <img class="hero-photo" src="/assets/img/AMartnerweb.jpg" alt="Antonio Martner headshot">
 </section>
-
 
 ## WORKING PAPERS
 
@@ -43,6 +44,7 @@ with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 ### Instructor
 Microeconomic Theory I, ECON 11 UCLA (×3)  
 Principles of Economics, ECON 1 UCLA (×3)
+
 <br>
 
 ### Teaching Assistant
