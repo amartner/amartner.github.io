@@ -33,6 +33,7 @@ with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](
 
 **[Markup Distribution and Aggregate Dynamics](https://amartner.github.io/Mu_c_09052025.pdf)**  
 with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://jianyulu.weebly.com/) | Submitted
+
 <br>
 
 **[Aggregating Distortions in Networks with Multiproduct Firms](https://yasutakakoike-mori.com/files/Yasu_JMP.pdf)**  
