@@ -3,7 +3,7 @@ layout: homepage
 title: Antonio Martner
 ---
 
-# Antonio Martner
+# ANTONIO MARTNER
 
 <section class="home-hero">
   <div class="hero-text">
