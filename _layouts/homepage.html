@@ -18,8 +18,8 @@
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
 
     {% if site.font == "Sans Serif" %}
     <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
@@ -35,81 +35,94 @@
     {% endif %}
     <link rel="stylesheet" href="./assets/css/abstract.css">
 
+    <!-- ✅ Minimal inline overrides for this layout only -->
+    <style>
+      /* Collapse left sidebar & footer on this page and center the content */
+      .page-homepage header,
+      .page-homepage footer { display: none !important; }
+
+      .page-homepage .wrapper { width: min(900px, 92%); margin: 0 auto; }
+
+      .page-homepage section {
+        float: none !important;
+        width: auto !important;
+        max-width: 900px;
+        margin: 0 auto;
+        padding-top: 2.5em;
+      }
+
+      /* Make body text clearly black in light mode (theme is a bit gray) */
+      @media (prefers-color-scheme: light) {
+        body { color: #000; line-height: 1.7; }
+        p, li, blockquote, dd, td, th { color: #000; }
+      }
+
+      /* Hero module: intro left, small photo right; stacks on mobile */
+      .home-hero { display: flex; gap: 24px; align-items: flex-start; margin: 8px 0 28px; }
+      .home-hero .hero-text { flex: 1 1 60%; }
+      .home-hero .hero-photo { flex: 0 0 180px; max-width: 180px; height: auto; border-radius: 12px; }
+      @media (max-width: 960px) {
+        .home-hero { flex-direction: column-reverse; }
+        .home-hero .hero-photo { margin: 12px auto 0; }
+      }
+    </style>
   </head>
-  <body>
+
+  <!-- ✅ Add a class so the CSS above targets only this page -->
+  <body class="page-homepage">
     <div class="wrapper">
       <header>
-        
         {% if site.avatar %}
-        <!-- <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar"  /></a> -->
-        <img src="{{ site.avatar }}" alt="Computer Man" style="width:240px;height:360px;">
+        <!-- If you later want the sidebar avatar back, remove the CSS that hides header, or delete this block -->
+        <!-- <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a> -->
+        <img src="{{ site.avatar }}" alt="Sidebar Avatar" style="width:240px;height:360px;">
         {% endif %}
 
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
+        <position style="font-size:1.10rem;">{{ site.position }}</position><br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a><br>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
 
-        <br>
-        <br>
+        <br><br>
         <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
-        </a>
-        {% endif %}
-
-        {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
-        </a>
-        {% endif %}
-
-        {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        {% endif %}
-
-        {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-twitter"></i>
-        </a>
-        {% endif %}
+          {% if site.google_scholar %}
+          <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}"><i class="ai ai-google-scholar" style="font-size:1.2rem"></i></a>
+          {% endif %}
+          {% if site.cv_link %}
+          <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}"><i class="ai ai-cv" style="font-size:1.3rem;"></i></a>
+          {% endif %}
+          {% if site.github_link %}
+          <a style="margin: 0 5px 0 0" href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
+          {% endif %}
+          {% if site.linkedin %}
+          <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
+          {% endif %}
+          {% if site.twitter %}
+          <a style="margin: 0 0 0 0" href="{{ site.twitter }}"><i class="fab fa-twitter"></i></a>
+          {% endif %}
         </div>
         <br>
-
       </header>
+
       <section>
+        {{ content }}
 
-      {{ content }}
-
-      <br>
-
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
-
+        <br>
+        {% if site.enable_footnote %}
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+        {% endif %}
       </section>
-      <footer>
-        
-      </footer>
+
+      <footer></footer>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
@@ -123,11 +136,10 @@
     {% endif %}
 
     <script>
-    function toggleAbstract(abstractId) {
-    const abstract = document.getElementById(abstractId);
-    abstract.classList.toggle('visible');
-    }
+      function toggleAbstract(id) {
+        const el = document.getElementById(id);
+        el && el.classList.toggle('visible');
+      }
     </script>
-    
   </body>
 </html>
