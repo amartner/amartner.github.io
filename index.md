@@ -24,8 +24,6 @@ Email: amartner@ucla.edu
 
 ## WORKING PAPERS
 
-<div class="papers" markdown="1">
-
 **[The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049)**  
 (Job Market Paper)  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
@@ -38,9 +36,6 @@ with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://j
 
 **[Aggregating Distortions in Networks with Multiproduct Firms](https://yasutakakoike-mori.com/files/Yasu_JMP.pdf)**  
 with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
-
-</div>
-
 <br> <br>
 
 
@@ -60,8 +55,6 @@ Microeconomic Theory I, ECON 11 UCLA (Head TA)
 
 ## PRE-DOCTORAL WORK
 
-<div class="papers" markdown="1">
-
 [**Firm Shocks, Workers Earnings and the Extensive Margin**](https://www.bcentral.cl/en/content/-/details/documento-de-trabajo-n-1010)  
 Central Bank of Chile WP 1010, March 2024. with A. Castillo, A.S. León, and M. Tapia  
 
@@ -77,5 +70,4 @@ United Nations Publications, 2016.
 [**Window of Opportunity of Chile–Guatemala Commercial Agreement (in Spanish)**](https://repository.eclac.org/handle/11362/37216)  
 ECLAC Publications, 2014
 
-</div>
 
