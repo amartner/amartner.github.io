@@ -595,3 +595,32 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* ===== Step 1: Minimal, safe overrides (append at end) ===== */
+
+/* Make body text black in LIGHT mode only, keep dark mode as-is */
+@media (prefers-color-scheme: light) {
+  body { color: #000; line-height: 1.7; }      /* comfortable line height */
+  p, li, blockquote, dd, td, th { color: #000; }
+  h1, h2, h3, h4, h5, h6 { color: #043361; }   /* keep your heading color */
+  /* Optional: a touch more space above section headers */
+  h2 { margin: 1.6rem 0 0.75rem; }
+}
+
+/* Headshot on the right with nice wrap */
+img.headshot {
+  float: right;
+  width: 220px;        /* tweak as you like */
+  height: auto;
+  border-radius: 12px;
+  margin: 0 0 1rem 1.25rem;  /* space from text */
+}
+
+/* Mobile: stack and center the photo */
+@media (max-width: 960px) {
+  img.headshot {
+    float: none;
+    display: block;
+    margin: 0.5rem auto 1rem;
+  }
+}
