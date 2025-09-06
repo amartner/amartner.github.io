@@ -3,11 +3,16 @@ layout: homepage
 title: Antonio Martner
 ---
 
-# ANTONIO MARTNER
+# Antonio Martner
 
-![Antonio Martner](/assets/img/AMartnerweb.jpg){: .headshot }
-
-I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025–26 academic year and expect to graduate in March, 2026. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
+<section class="home-hero">
+  <div class="hero-text">
+    <p>
+      I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025–26 academic year and expect to graduate in March, 2026. My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
+    </p>
+  </div>
+  <img class="hero-photo" src="/assets/img/AMartnerweb.jpg" alt="Antonio Martner headshot">
+</section>
 
 ## WORKING PAPERS
 
