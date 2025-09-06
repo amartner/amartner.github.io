@@ -58,12 +58,16 @@ Microeconomic Theory I, ECON 11 UCLA (Head TA)
 ## Pre-doctoral work
 <a href="https://www.bcentral.cl/en/content/-/details/documento-de-trabajo-n-1010">Firm Shocks, Workers Earnings and the Extensive Margin</a> <br> 
 Central Bank of Chile WP 1010, March 2024. with A. Castillo, A.S. León, and M. Tapia
+
 <a href="https://www.sciencedirect.com/science/article/pii/S0306919220302220">Front-of-package warning label effects on manufacturing labor outcomes in Chile</a> <br>
 Food Policy, 2021, vol. 100, p. 102016. with G. Paraje, A. Colchero, J.M. Wlasiuk, and B.M. Popkin
+
 <a href="https://www.bcentral.cl/documents/33528/133326/dtbc835.pdf/e7b4b638-ea7d-fe32-e360-4f79ece2edf4?t=1655149225333">Misallocation or Misspecification? The Effect of Average Distortions on TFP Gains Estimations</a> <br> 
 Central Bank of Chile WP 835, June 2019. with E. Albagli, M. Canales, M. Tapia, and J.M. Wlasiuk
+
 <a href="https://www.un-ilibrary.org/content/books/9789210572187c007">The role of small and medium-sized enterprises in Latin American exports to Asia</a> <br> 
 United Nations Publications, 2016.
+
 <a href="https://repository.eclac.org/handle/11362/37216">Window of opportunity of Chile-Guatemala commercial agreement (in Spanish)</a> <br> 
 ECLAC Publications, 2014 
 
