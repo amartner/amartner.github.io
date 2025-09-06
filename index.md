@@ -12,7 +12,7 @@ I am a Ph.D. candidate in economics at UCLA. I will be on the job market during 
 My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 
 Please find my [CV here](https://amartner.github.io/cv_june2025.pdf)  
-Email: [amartner@ucla.edu](mailto:amartner@ucla.edu)
+Email: amartner@ucla.edu
   </div>
 
   <img class="hero-photo" src="/assets/img/AMartnerweb.jpg" alt="Antonio Martner headshot">
