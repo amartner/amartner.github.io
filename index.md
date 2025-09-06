@@ -23,10 +23,9 @@ Email: amartner@ucla.edu
 
 ## WORKING PAPERS
 
-**THE AGGREGATE WELFARE EFFECTS OF NONLINEAR PRICES IN SUPPLY CHAINS**  
+**[THE AGGREGATE WELFARE EFFECTS OF NONLINEAR PRICES IN SUPPLY CHAINS](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049)**  
 (Job Market Paper)  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
-[Central Bank of Chile WP 1049](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049)
 
 **[THE ANATOMY OF AGGREGATE PRODUCTIVITY](https://amartner.github.io/TFP_A_250905.pdf)**  
 with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | Submitted
