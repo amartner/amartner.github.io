@@ -2,10 +2,11 @@
 layout: homepage
 ---
 <style>
-  body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
   h1, h2, h3 {
     font-family: "Helvetica Neue", Helvetica, Arial;
   }
@@ -20,6 +21,10 @@ layout: homepage
     }
   </style>
 </head>
+
+
+
+
 
 <h1 align="center">
 Antonio Martner
