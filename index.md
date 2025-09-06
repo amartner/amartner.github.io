@@ -28,6 +28,7 @@ with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)
 
 **[The Anatomy of Aggregate Productivity](https://amartner.github.io/TFP_A_250905.pdf)**  
 with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | Submitted
+
 <br>
 
 **[Markup Distribution and Aggregate Dynamics](https://amartner.github.io/Mu_c_09052025.pdf)**  
