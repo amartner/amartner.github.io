@@ -46,7 +46,6 @@ with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 ### Instructor
 Microeconomic Theory I, ECON 11 UCLA (×3)  
 Principles of Economics, ECON 1 UCLA (×3)
-<br>
 
 ### Teaching Assistant
 Industrial Organization: Policy and Regulation, ECON 171 UCLA  
