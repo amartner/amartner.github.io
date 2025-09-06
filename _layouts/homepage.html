@@ -101,6 +101,30 @@ a:hover, a:focus { text-decoration: underline; }
   text-decoration: none;
 }
 .btn:hover { background: #1F5EA8; color: #fff; }
+
+/* Hero: make the text stop ~5cm before the photo */
+:root { --hero-gap: 5cm; }  /* 5cm ≈ 189px; tweak here if needed */
+
+.home-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--hero-gap);      /* the space between text and photo */
+  flex-wrap: nowrap;         /* keep them on one line */
+}
+
+/* keep your current photo sizing; adjust if you want it larger/smaller */
+.home-hero .hero-photo {
+  flex: 0 0 220px;           /* column width for photo */
+  max-width: 220px;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Responsive: reduce the gap on small screens so it doesn't break layout */
+@media (max-width: 960px) {
+  .home-hero { gap: 24px; }
+}
+  
 </style>
 
   </head>
