@@ -4,7 +4,7 @@ layout: homepage
 <style>
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.6;
 }
   h1, h2, h3 {
