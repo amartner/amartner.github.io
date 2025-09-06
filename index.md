@@ -3,7 +3,7 @@ layout: homepage
 title: Antonio Martner
 ---
 
-# Antonio Martner
+# ANTONIO MARTNER
 
 ![Antonio Martner](/assets/img/AMartnerweb.jpg){: .headshot }
 
