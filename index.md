@@ -42,12 +42,12 @@ I am a Ph.D. candidate in economics at UCLA. I will be on the job market during 
 </p>
 
 ## Working Papers
-**The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains**  <br>
+**THE AGGREGATE WELFARE EFFECTS OF NONLINEAR PRICES IN SUPPLY CHAINS**  <br>
 (Job Market Paper) <br>
 with <a href="https://sites.google.com/view/lucalorenzini/"> Luca Lorenzini </a> <br>
 <a href="https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049"> Central Bank of Chile WP 1049 </a>
 
-**<a href="https://amartner.github.io/TFP_A_250905.pdf"> The Anatomy of Aggregate Productivity </a>**  
+**<a href="https://amartner.github.io/TFP_A_250905.pdf"> THE ANATOMY OF AGGREGATE PRODUCTIVITY</a>**  
 with <a href="https://www.fedehuneeus.com/"> Federico Huneeus</a>  and <a href="https://yasutakakoike-mori.com/"> Yasutaka Koike-Mori</a>   | Submitted
 
 **<a href="https://amartner.github.io/Mu_c_09052025.pdf"> Markup Distribution and Aggregate Dynamics</a>**    
