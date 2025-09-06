@@ -19,24 +19,22 @@ Email: amartner@ucla.edu
 </section>
 
 
-
-
 ## WORKING PAPERS
 
-**[THE AGGREGATE WELFARE EFFECTS OF NONLINEAR PRICES IN SUPPLY CHAINS](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049)**  
+**[The Aggregate Welfare Effects of Nonlinear Prices in Suplly Chains](https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-1049)**  
 (Job Market Paper)  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
 
 
-**[THE ANATOMY OF AGGREGATE PRODUCTIVITY](https://amartner.github.io/TFP_A_250905.pdf)**  
+**[The Anatomy of Aggregate Productivity](https://amartner.github.io/TFP_A_250905.pdf)**  
 with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | Submitted
 
 
-**[MARKUP DISTRIBUTION AND AGGREGATE DYNAMICS](https://amartner.github.io/Mu_c_09052025.pdf)**  
+**[Markup Distribution and Aggregate Dynamics](https://amartner.github.io/Mu_c_09052025.pdf)**  
 with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://jianyulu.weebly.com/) | Submitted
 
 
-**[AGGREGATING DISTORTIONS IN NETWORKS WITH MULTI-PRODUCT FIRMS](https://yasutakakoike-mori.com/files/Yasu_JMP.pdf)**  
+**[Aggregating Distortions in Networks with Multiproduct Firms](https://yasutakakoike-mori.com/files/Yasu_JMP.pdf)**  
 with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 
 
