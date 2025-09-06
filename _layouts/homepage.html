@@ -124,6 +124,16 @@ a:hover, a:focus { text-decoration: underline; }
 @media (max-width: 960px) {
   .home-hero { gap: 24px; }
 }
+
+  /* Bigger font for paper titles only (first link in each item) */
+.papers p > a:first-child,
+.papers li > a:first-child {
+  font-size: 1.12em;   /* adjust this number to taste */
+  font-weight: 700;
+  line-height: 1.25;
+  display: inline-block; /* so margin works */
+  margin-bottom: 0.15rem;
+}
   
 </style>
 
