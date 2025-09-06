@@ -27,14 +27,19 @@ Email: amartner@ucla.edu
 (Job Market Paper)  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
 
+
 **[THE ANATOMY OF AGGREGATE PRODUCTIVITY](https://amartner.github.io/TFP_A_250905.pdf)**  
 with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | Submitted
+
 
 **[MARKUP DISTRIBUTION AND AGGREGATE DYNAMICS](https://amartner.github.io/Mu_c_09052025.pdf)**  
 with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://jianyulu.weebly.com/) | Submitted
 
+
 **[AGGREGATING DISTORTIONS IN NETWORKS WITH MULTI-PRODUCT FIRMS](https://yasutakakoike-mori.com/files/Yasu_JMP.pdf)**  
 with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
+
+
 
 ## TEACHING
 
@@ -46,6 +51,8 @@ Principles of Economics, ECON 1 UCLA (×3)
 Industrial Organization: Policy and Regulation, ECON 171 UCLA  
 Principles of Economics, ECON 1 UCLA (Head TA) (2024 Best TA Award)  
 Microeconomic Theory I, ECON 11 UCLA (Head TA)
+
+
 
 ## PRE-DOCTORAL WORK
 
