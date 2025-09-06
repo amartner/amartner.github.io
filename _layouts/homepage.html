@@ -37,25 +37,46 @@
 
     <!-- ✅ Minimal inline overrides for this layout only -->
 <style>
-  /* Collapse sidebar + center content (keep as you have) ... */
+  /* Collapse left sidebar & footer on this page and center the content */
+  .page-homepage header,
+  .page-homepage footer { display: none !important; }
 
-  /* Hero module: text left, photo right with stable proportions */
-  .home-hero {
-    display: grid;
-    grid-template-columns: 1fr minmax(160px, 240px); /* text grows, photo capped */
-    align-items: start;
-    gap: 28px;
-    margin: 8px 0 32px;
-  }
-  .home-hero .hero-text { font-size: 1rem; }
-  .home-hero .hero-photo {
-    width: 100%;          /* fills its column */
-    height: auto;         /* keeps aspect ratio */
-    border-radius: 12px;
+  .page-homepage .wrapper { width: min(900px, 92%); margin: 0 auto; }
+
+  .page-homepage section {
+    float: none !important;
+    width: auto !important;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top: 2.5em;
   }
 
-  /* Simple button + meta row */
-  .hero-meta { margin-top: 0.6rem; }
+  /* Make body text clearly black in light mode */
+  @media (prefers-color-scheme: light) {
+    body { color: #000; line-height: 1.7; }
+    p, li, blockquote, dd, td, th { color: #000; }
+  }
+
+  /* Hero module: intro left, small photo right; stacks on mobile */
+  .home-hero { 
+    display: flex; 
+    gap: 24px; 
+    align-items: flex-start; 
+    margin: 8px 0 28px; 
+  }
+  .home-hero .hero-text { flex: 1 1 60%; }
+  .home-hero .hero-photo { 
+    flex: 0 0 180px; 
+    max-width: 180px; 
+    height: auto; 
+    border-radius: 12px; 
+  }
+  @media (max-width: 960px) {
+    .home-hero { flex-direction: column-reverse; }
+    .home-hero .hero-photo { margin: 12px auto 0; }
+  }
+
+  /* Simple button for CV */
   .btn {
     display: inline-block;
     padding: 0.45rem 0.7rem;
@@ -65,12 +86,8 @@
     color: #043361;
   }
   .btn:hover { background: #043361; color: #fff; }
-
-  @media (max-width: 960px) {
-    .home-hero { grid-template-columns: 1fr; }
-    .home-hero .hero-photo { max-width: 220px; margin: 12px auto 0; }
-  }
 </style>
+
   </head>
 
   <!-- ✅ Add a class so the CSS above targets only this page -->
