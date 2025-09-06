@@ -5,8 +5,6 @@ title: Antonio Martner
 
 # ANTONIO MARTNER
 
-# Antonio Martner
-
 <section class="home-hero">
   <div class="hero-text">
     <p>
