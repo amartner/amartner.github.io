@@ -2,25 +2,32 @@
 layout: homepage
 ---
 <style>
-body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 15px;
-  line-height: 1.6;
-}
-  h1, h2, h3 {
-    font-family: "Helvetica Neue", Helvetica, Arial;
+  /* Base body text (non-headings) */
+  body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #000; /* force body text to black */
+  }
+
+  /* Make sure typical body elements inherit black as well */
+  p, li, blockquote, dd, td, th {
+    color: #000;
+  }
+
+  /* Headings keep your sans-serif stack */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+  }
+
+  /* Heading size for H1 (was in a separate <head> before) */
+  h1 {
+    font-size: 40px;     /* adjust as you like */
+    line-height: 1.2;
+    font-weight: bold;
   }
 </style>
-
-<head>
-  <style>
-    h1 {
-      font-size: 40px;    /* adjust as you like */
-      line-height: 1.2;
-      font-weight: bold;
-    }
-  </style>
-</head>
 
 
 
