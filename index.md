@@ -12,7 +12,7 @@ title: Antonio Martner
 
 <br>
 
-I am a Ph.D. candidate in economics at UCLA. I will be on the job market during the 2025–26 academic year and expect to graduate in March 2026.
+I am a Ph.D. candidate in economics at [UCLA](https://economics.ucla.edu/). I will be on the job market during the 2025–26 academic year and expect to graduate in March 2026.
 
 My research interests are in Macroeconomics and Industrial Organization with a focus on Production Networks.
 
@@ -43,8 +43,8 @@ with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 ## TEACHING
 
 ### Instructor
-Microeconomic Theory I, ECON 11 UCLA (×3)  
-Principles of Economics, ECON 1 UCLA (×3)
+[Microeconomic Theory I, ECON 11 UCLA](https://amartner.github.io/Syllabus_v30june.pdf) (×3) 
+[Principles of Economics, ECON 1 UCLA](https://amartner.github.io/Syllabus_Econ1_Aug_12th.pdf) (×3) 
 
 ### Teaching Assistant
 Industrial Organization: Policy and Regulation, ECON 171 UCLA  
