@@ -44,6 +44,7 @@ with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
 
 ### Instructor
 [Microeconomic Theory I, ECON 11 UCLA](https://amartner.github.io/Syllabus_v30june.pdf) (×3) 
+
 [Principles of Economics, ECON 1 UCLA](https://amartner.github.io/Syllabus_Econ1_Aug_12th.pdf) (×3) 
 
 ### Teaching Assistant
