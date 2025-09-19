@@ -19,7 +19,7 @@ My research interests are in Macroeconomics and Industrial Organization with a f
 Please find my [CV here](https://amartner.github.io/cv_june2025.pdf)  
 Email: amartner@ucla.edu
   </div>
-  <img class="hero-photo" src="/assets/img/AMartnerweb.jpg" alt="Antonio Martner headshot">
+  <img class="hero-photo" src="/assets/img/AM_sept18.jpg" alt="Antonio Martner headshot">
 </section>
 
 ## WORKING PAPERS
