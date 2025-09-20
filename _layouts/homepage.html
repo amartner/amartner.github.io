@@ -83,6 +83,34 @@
   margin: 0 0 0.3rem;
   color: #043361; /* keep your navy */
 }
+/* --- Minimal 16:9 hero fix --- */
+.hero-photo-frame{
+  /* set the column width on desktop; adjust to taste */
+  flex: 0 0 280px;     /* try 220–340px if you want smaller/bigger */
+  max-width: 280px;
+  aspect-ratio: 16 / 9;
+  border-radius: 12px;
+  overflow: hidden;    /* clean clip */
+}
+
+/* make the <img> fill the frame without distortion */
+.home-hero .hero-photo{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   /* use 'contain' if you prefer letterboxing */
+  object-position: center;
+  display: block;
+  max-width: none;     /* override older rule that capped width at 220px */
+}
+
+/* mobile: let the photo go full width and keep 16:9 */
+@media (max-width: 960px){
+  .hero-photo-frame{
+    flex: none;
+    width: 100%;
+    max-width: none;
+  }
+}
 
 /* Titles: keep current navy */
 h1, h2, h3, h4, h5, h6 { color: #043361; }
