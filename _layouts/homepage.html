@@ -89,15 +89,20 @@
   border-radius: 12px;
 }
 
-/* Optional: smaller offset on phones */
+/* Mobile layout */
 @media (max-width: 640px){
-  :root{ --hero-offset: 16px; }
-}
-
-
-@media (max-width: 960px) {
-  .home-hero { flex-direction: column-reverse; }
-  .home-hero .hero-photo { margin: 12px auto 0; }
+  .home-hero{
+    flex-direction: column;   /* stack text above photo */
+    align-items: stretch;     /* let them fill width */
+    gap: 16px;
+  }
+  .home-hero .hero-photo{
+    flex: none;               /* stop the fixed 320px flex-basis */
+    width: 100%;              /* take full line (no squeezing) */
+    max-width: 100%;
+    align-self: center;       /* center if parent uses different alignment */
+    margin: 0;                /* avoid side push from margins */
+  }
 }
 
   /* Bigger name in the hero than section titles */
