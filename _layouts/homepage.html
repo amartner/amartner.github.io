@@ -65,12 +65,7 @@
     margin: 8px 0 28px; 
   }
   .home-hero .hero-text { flex: 1 1 60%; }
-.home-hero .hero-photo {
-  flex: 0 0 220px;   /* column width */
-  max-width: 220px;  /* image width cap */
-  height: auto;
-  border-radius: 12px;
-}
+
   @media (max-width: 960px) {
     .home-hero { flex-direction: column-reverse; }
     .home-hero .hero-photo { margin: 12px auto 0; }
@@ -114,11 +109,12 @@ a:hover, a:focus { text-decoration: underline; }
 
 /* keep your current photo sizing; adjust if you want it larger/smaller */
 .home-hero .hero-photo {
-  flex: 0 0 220px;           /* column width for photo */
-  max-width: 220px;
+  flex: 0 0 320px;           /* column width for photo */
+  max-width: 320px;
   height: auto;
   border-radius: 12px;
 }
+
 
 /* Responsive: reduce the gap on small screens so it doesn't break layout */
 @media (max-width: 960px) {
