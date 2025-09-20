@@ -60,16 +60,17 @@
   /* Hero module: intro left, small photo right; stacks on mobile */
   .home-hero { 
     display: flex; 
-    gap: 24px; 
+    gap: 12px; 
     align-items: flex-start; 
     margin: 8px 0 28px; 
   }
   .home-hero .hero-text { flex: 1 1 65%; }
 .home-hero .hero-photo {
-  flex: 0 0 220px;   /* column width */
-  max-width: 220px;  /* image width cap */
+  flex: 0 0 280px;   /* column width */
+  max-width: 280px;  /* image width cap */
   height: auto;
   border-radius: 12px;
+  margin-top:8px;  
 }
   @media (max-width: 960px) {
     .home-hero { flex-direction: column-reverse; }
