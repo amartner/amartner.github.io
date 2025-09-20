@@ -66,30 +66,39 @@
   }
 
 /* Spacing knobs */
-:root {
+:root{
   --hero-gap: 3cm;          /* space between text & photo */
   --hero-offset: 24px;      /* how far below the top the hero starts */
 }
 
-.home-hero {
-  display: flex;
-  align-items: flex-start;
-  gap: var(--hero-gap);      /* the space between text and photo */
-  flex-wrap: nowrap;         /* keep them on one line */
+/* Hero module: intro left, small photo right; stacks on mobile */
+.home-hero { 
+  display: flex; 
+  align-items: flex-start; 
+  gap: var(--hero-gap);
+  margin: var(--hero-offset) 0 28px;  /* ⟵ push it down */
+  /* If your top margin collapses, swap the line above for: */
+  /* padding-top: var(--hero-offset); */
 }
 
-/* keep your current photo sizing; adjust if you want it larger/smaller */
+/* Photo column */
 .home-hero .hero-photo {
-  flex: 0 0 320px;           /* column width for photo */
+  flex: 0 0 320px;
   max-width: 320px;
   height: auto;
   border-radius: 12px;
 }
 
-    @media (max-width: 960px) {
-    .home-hero { flex-direction: column-reverse; }
-    .home-hero .hero-photo { margin: 12px auto 0; }
-  }
+/* Optional: smaller offset on phones */
+@media (max-width: 640px){
+  :root{ --hero-offset: 16px; }
+}
+
+
+@media (max-width: 960px) {
+  .home-hero { flex-direction: column-reverse; }
+  .home-hero .hero-photo { margin: 12px auto 0; }
+}
 
   /* Bigger name in the hero than section titles */
 .home-hero .hero-text h1 {
