@@ -89,20 +89,27 @@
   border-radius: 12px;
 }
 
-/* Mobile layout */
+/* Mobile: put the photo on top */
 @media (max-width: 640px){
+  /* reduce top offset on phones so it doesn't look "middle-y" */
+  :root{ --hero-offset: 12px; }
+
   .home-hero{
-    flex-direction: column;   /* stack text above photo */
-    align-items: stretch;     /* let them fill width */
+    flex-direction: column;   /* stack */
+    align-items: stretch;
     gap: 16px;
   }
+
   .home-hero .hero-photo{
-    flex: none;               /* stop the fixed 320px flex-basis */
-    width: 100%;              /* take full line (no squeezing) */
+    order: -1;                /* ⟵ move photo to the top */
+    flex: none;
+    width: 100%;
     max-width: 100%;
-    align-self: center;       /* center if parent uses different alignment */
-    margin: 0;                /* avoid side push from margins */
+    margin: 0;                /* no extra push */
   }
+
+  /* If your text block has a class, this keeps it under the photo */
+  .home-hero .hero-copy{ order: 0; }
 }
 
   /* Bigger name in the hero than section titles */
