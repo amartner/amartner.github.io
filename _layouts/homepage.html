@@ -57,8 +57,7 @@
     p, li, blockquote, dd, td, th { color: #000; }
   }
 
-/* Hero: make the text stop ~5cm before the photo */
-:root { --hero-gap: 4.5cm; }  /* 5cm ≈ 189px; tweak here if needed */
+
 
 .home-hero .hero-photo{
   flex: 0 0 320px;   /* was 220px — makes the frame wider */
@@ -69,6 +68,8 @@
   border-radius: 12px;
 }
 
+  /* Hero: make the text stop ~5cm before the photo */
+:root { --hero-gap: 3cm; }  /* 5cm ≈ 189px; tweak here if needed */
   
   @media (max-width: 960px) {
     .home-hero { flex-direction: column-reverse; }
