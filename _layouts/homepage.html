@@ -57,24 +57,26 @@
     p, li, blockquote, dd, td, th { color: #000; }
   }
 
-
-
 .home-hero .hero-photo{
-  flex: 0 0 320px;   /* was 220px — makes the frame wider */
-  max-width: 320px;  /* was 220px — same width cap */
-  width: 320px;      /* ensures consistent layout */
-  height: auto;      /* keeps your 16:9 image proportional */
-  margin-top: 12px;  /* nudges the image slightly below the text */
+  /* Let it scale with the viewport, but stay between 240–420px */
+  width: clamp(240px, 32vw, 420px);
+  height: auto;               /* height is computed from aspect-ratio */
+  aspect-ratio: 16 / 9;       /* keep 16:9 shape */
+  flex: 0 1 auto;             /* allow it to grow/shrink */
+  margin-top: 12px;           /* nudge a bit below the text */
   border-radius: 12px;
+  display: block;
+  /* remove max-width and any fixed flex-basis */
+}
+
+  @media (max-width: 960px){
+  .home-hero { flex-direction: column-reverse; gap: 16px; }
+  .home-hero .hero-photo { width: 100%; }
 }
 
   /* Hero: make the text stop ~5cm before the photo */
 :root { --hero-gap: 3cm; }  /* 5cm ≈ 189px; tweak here if needed */
-  
-  @media (max-width: 960px) {
-    .home-hero { flex-direction: column-reverse; }
-    .home-hero .hero-photo { margin: 12px auto 0; }
-  }
+
 
   /* Bigger name in the hero than section titles */
 .home-hero .hero-text h1 {
