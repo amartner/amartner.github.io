@@ -65,8 +65,11 @@
     margin: 8px 0 28px; 
   }
 
-  /* Hero: make the text stop ~5cm before the photo */
-:root { --hero-gap: 3cm; }  /* 5cm ≈ 189px; tweak here if needed */
+/* Spacing knobs */
+:root {
+  --hero-gap: 3cm;          /* space between text & photo */
+  --hero-offset: 24px;      /* how far below the top the hero starts */
+}
 
 .home-hero {
   display: flex;
