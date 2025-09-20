@@ -58,49 +58,17 @@
   }
 
   /* Hero module: intro left, small photo right; stacks on mobile */
-  .home-hero { 
-    display: flex; 
-    gap: 24px; 
-    align-items: flex-start; 
-    margin: 8px 0 28px; 
-  }
-  .home-hero .hero-text { flex: 1 1 60%; }
-.home-hero .hero-photo {
-  flex: 0 0 220px;   /* column width */
-  max-width: 220px;  /* image width cap */
-  height: auto;
-  border-radius: 12px;
-}
-  @media (max-width: 960px) {
-    .home-hero { flex-direction: column-reverse; }
-    .home-hero .hero-photo { margin: 12px auto 0; }
-  }
 
-  /* Bigger name in the hero than section titles */
-.home-hero .hero-text h1 {
-  font-size: clamp(34px, 6vw, 40px);
-  line-height: 1.1;
-  margin: 0 0 0.3rem;
-  color: #043361; /* keep your navy */
-}
-/* --- Minimal 16:9 hero fix --- */
-.hero-photo-frame{
-  /* set the column width on desktop; adjust to taste */
-  flex: 0 0 280px;     /* try 220–340px if you want smaller/bigger */
-  max-width: 280px;
-  aspect-ratio: 16 / 9;
-  border-radius: 12px;
-  overflow: hidden;    /* clean clip */
-}
-
-/* make the <img> fill the frame without distortion */
+/* Right-side hero image: fixed column, always 16:9 */
 .home-hero .hero-photo{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;   /* use 'contain' if you prefer letterboxing */
+  flex: 0 0 280px;     /* column width; tweak 220–340px if you want */
+  width: 280px;        /* match the flex-basis so layout is consistent */
+  aspect-ratio: 16 / 9;
+  height: auto;        /* browser derives height from the aspect ratio */
+  object-fit: cover;   /* keeps faces centered; change to 'contain' for letterbox */
   object-position: center;
+  border-radius: 12px;
   display: block;
-  max-width: none;     /* override older rule that capped width at 220px */
 }
 
 /* mobile: let the photo go full width and keep 16:9 */
@@ -109,6 +77,15 @@
     flex: none;
     width: 100%;
     max-width: none;
+  }
+}
+
+  @media (max-width: 960px) {
+  .home-hero { flex-direction: column-reverse; gap: 24px; }
+  .home-hero .hero-photo {
+    margin: 12px auto 0;
+    width: 100%;       /* full width on mobile */
+    max-width: none;   /* allow it to grow */
   }
 }
 
