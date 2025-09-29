@@ -24,7 +24,7 @@ Email: amartner@ucla.edu
 
 ## WORKING PAPERS
 
-**[The Aggregate Welfare Effects of Nonlinear Prices in Supply Chains](https://amartner.github.io/JMP_LM_live.pdf)**  
+**[Aggregate Outcomes of Nonlinear Prices in Supply Chains](https://amartner.github.io/JMP_LM_live.pdf)**  
 (Job Market Paper)  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
 
