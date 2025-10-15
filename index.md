@@ -17,7 +17,7 @@ I am a Ph.D. candidate in economics at [UCLA](https://economics.ucla.edu/). I wi
 My research interests are in Macroeconomics, Industrial Organization, and Trade, with a focus on granular distortions, production networks, and aggregation.
 
 
-Please find my [CV here](https://amartner.github.io/cv_june2025.pdf)  
+Please find my [CV here](https://amartner.github.io/Antonio_Martner_CV_live.pdf)  
 Email: amartner@ucla.edu
   </div>
   <img class="hero-photo" src="/assets/img/antonio-1.jpg" alt="Antonio Martner headshot">
