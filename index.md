@@ -15,6 +15,7 @@ title: Antonio Martner
 I am a Ph.D. candidate in economics at [UCLA](https://economics.ucla.edu/). I will be on the job market during the 2025–26 academic year and expect to graduate in March 2026.
 
 Primary Field: Macroeconomics
+
 Secondary Fields: Industrial Organization, Trade
 
 
