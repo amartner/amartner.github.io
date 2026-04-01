@@ -22,7 +22,7 @@ Secondary Fields: Industrial Organization, Trade
 
 
 Please find my [CV here](https://amartner.github.io/Antonio_Martner_CV_live.pdf)  
-Email: amartner@ucla.edu
+Email: amartner@bcentral.cl 
   </div>
   <img class="hero-photo" src="/assets/img/antonio-1.jpg" alt="Antonio Martner headshot">
 </section>
