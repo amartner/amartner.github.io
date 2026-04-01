@@ -12,7 +12,9 @@ title: Antonio Martner
 
 <br>
 
-I am a Ph.D. candidate in economics at [UCLA](https://economics.ucla.edu/). I will be on the job market during the 2025–26 academic year and expect to graduate in March 2026.
+
+
+I am a Senior Economist in the Economic Modeling Department at the Central Bank of Chile. I received my Ph.D in Economics at [UCLA](https://economics.ucla.edu/) in March 2026.
 
 Primary Field: Macroeconomics
 
