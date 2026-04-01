@@ -30,7 +30,6 @@ Email: amartner@bcentral.cl
 ## WORKING PAPERS
 
 **[Aggregate Outcomes of Nonlinear Prices in Supply Chains](https://amartner.github.io/JMP_LM_live.pdf)**  
-(Job Market Paper)  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  
 
 **[The Anatomy of Aggregate Productivity](https://amartner.github.io/TFP_A_250905.pdf)**  
