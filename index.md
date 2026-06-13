@@ -39,7 +39,7 @@ with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](
 with [Mario Giarda](https://www.mariogiarda.com/) and [Will Jianyu Lu](https://jianyulu.weebly.com/) | Submitted
 
 **[Aggregating Distortions in Networks with Multiproduct Firms](https://amartner.github.io/Multiprod_live.pdf)**  
-with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/)
+with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | Submitted
 <br> <br>
 
 
