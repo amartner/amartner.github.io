@@ -29,6 +29,9 @@ Email: amartner@bcentral.cl
 
 ## WORKING PAPERS
 
+**[Misallocation, Dollars, and Aggregate Productivity](https://amartner.github.io/dollars_miss_live.pdf)**  
+with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | November 2026 
+
 **[Aggregate Outcomes of Nonlinear Prices in Supply Chains](https://amartner.github.io/JMP_LM_live.pdf)**  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  | October 2026
 
