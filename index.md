@@ -30,7 +30,7 @@ Email: amartner@bcentral.cl
 ## WORKING PAPERS
 
 **[Misallocation, Dollars, and Aggregate Productivity](https://amartner.github.io/dollars_miss_live.pdf)**  
-with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | November 2026 
+with [Yasutaka Koike](https://yasutakakoike.com/) | November 2026 
 
 **[Aggregate Outcomes of Nonlinear Prices in Supply Chains](https://amartner.github.io/JMP_LM_live.pdf)**  
 with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  | October 2026
@@ -39,10 +39,10 @@ with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  | October 2
 with [Mario Giarda](https://www.mariogiarda.com/) | September 2026, Submitted
 
 **[Aggregating Distortions in Networks with Multiproduct Firms](https://amartner.github.io/Multiprod_live.pdf)**  
-with [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | June 2026, Submitted
+with [Yasutaka Koike](https://yasutakakoike.com/) | June 2026, Submitted
 
 **[The Anatomy of Aggregate Productivity](https://amartner.github.io/TFP_A_live.pdf)**  
-with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike-Mori](https://yasutakakoike-mori.com/) | December 2025, Submitted
+with [Federico Huneeus](https://www.fedehuneeus.com/) and [Yasutaka Koike](https://yasutakakoike.com/) | December 2025, Submitted
 
 <br> <br>
 
