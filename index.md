@@ -29,11 +29,11 @@ Email: amartner@bcentral.cl
 
 ## WORKING PAPERS
 
+**[Aggregate Outcomes of Nonlinear Prices in Supply Chains](https://amartner.github.io/JMP_LM_live.pdf)**  
+with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  | November 2026
+
 **[Misallocation, Dollars, and Aggregate Productivity](https://amartner.github.io/dollars_miss_live.pdf)**  
 with [Yasutaka Koike](https://yasutakakoike.com/) | November 2026 
-
-**[Aggregate Outcomes of Nonlinear Prices in Supply Chains](https://amartner.github.io/JMP_LM_live.pdf)**  
-with [Luca Lorenzini](https://sites.google.com/view/lucalorenzini/)  | October 2026
 
 **[Markup Distribution and Inflation Dynamics](https://amartner.github.io/mu_dist_live.pdf)**  
 with [Mario Giarda](https://www.mariogiarda.com/) | September 2026, Submitted
